@@ -25,6 +25,10 @@ Data after dropping the values
 
 
 
+
+
+
+
 ANALYSIS 2
 
 This analysis gives the distribution of cars on Car type,Make,Fuel type.
@@ -38,3 +42,14 @@ An outlier is a point or set of points different from other points. Sometimes th
 Therefore to remove outliners IQR score technique is used  to detect and remove the outliers with the help of boxplot
 .
 After using this technique we will see that  box plot contains no outlier points.
+
+
+ANALYSIS 3
+
+This analysis gives us the relation between Mileage and price.
+
+Relation between power and price considering different body type.
+
+Heapmap is used to find the correlation between the features.
+
+Scatter plot grid of more numerical variable is done to  investigate the realtion in more detail

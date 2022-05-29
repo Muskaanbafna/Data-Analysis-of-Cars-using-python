@@ -1,0 +1,7 @@
+Make,Model,Variant,Price,Displacement,Cylinders,Drivetrain,Fuel_System,Fuel_Tank_Capacity,Fuel_Type,Height,Length,Width,Doors,City_Mileage,ARAI_Certified_Mileage,Power,Torque,Type,Wheelbase
+Tata,Nano Genx,Xt,"2,92,667",624,2,RWD (Rear Wheel Drive),Injection,24,Petrol,1652,3164,1750,5,23.6,23.6,38,51,Manual,2230
+Tata,Nano Genx,Xe,"2,36,447",624,2,RWD (Rear Wheel Drive),Injection,24,Petrol,1652,3164,1750,5,23.6,23.6,38,51,Manual,2230
+Tata,Nano Genx,Emax Xm,"2,96,661",624,2,RWD (Rear Wheel Drive),Injection,15,CNG,1652,3164,1750,4,,,38,51,Manual,2230
+Tata,Nano Genx,Xta,"3,34,768",624,2,RWD (Rear Wheel Drive),Injection,24,Petrol,1652,3164,1750,5,23.6,21.9,38,51,Automatic,2230
+Tata,Nano Genx,Xm,"2,72,223",624,2,RWD (Rear Wheel Drive),Injection,24,Petrol,1652,3164,1750,5,23.6,23.6,38,51,Manual,2230
+Tata,Nano Genx,Xma,"3,14,815",624,2,RWD (Rear Wheel Drive),Injection,24,Petrol,1652,3164,1750,5,23.6,21.9,38,51,Automatic,2230

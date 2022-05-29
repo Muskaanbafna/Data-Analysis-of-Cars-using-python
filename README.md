@@ -5,8 +5,7 @@ Data Analysis or sometimes referred to as exploratory data analysis (EDA) is one
 DataSet Overview
 The dataset is taken from kaggle and contains details of the used cars in germany which are on sale on ebay.
 The dataset is not clean and hence a lot of data cleaning is carried out.
-The dataset is cleaned and stored in a CleanData folder which contains the entire cleaned dataset named [as cleaned_autos.csv and another folder named DataForAnalysis containing files structures containing subsets of the cleaned dataset based on brand of the vehicles and vehicle types.](https://github.com/Muskaanbafna/Data-Analysis-of-Cars-using-python/tree/main/CleanedData/clean%20data)
-
+The dataset is cleaned and stored in a CleanData folder which contains the entire cleaned dataset named https://github.com/Muskaanbafna/Data-Analysis-of-Cars-using-python/tree/main/CleanedData
 
 Analysis 1 
 

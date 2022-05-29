@@ -31,15 +31,15 @@ ANALYSIS 2
 
 This analysis gives the distribution of cars on Car type,Make,Fuel type.
 
-More than 70 % of the vehicle is Manual type Car.
+   More than 70 % of the vehicle is Manual type Car.
 
 Most produced vehicle are of body style Maruti Suzuki around 165% followed by Toyota and hyundai 150%
 
-More than 50 % of the vehicle is a Diesel type Car
+   More than 50 % of the vehicle is a Diesel type Car
 
 Box plot of Price of every body type.
 
-It's Clear that Car body type strongly affect the price of the car.
+   It's Clear that Car body type strongly affect the price of the car.
 
 Performing a 5 number summary (min, lower quartile, median, upper quartile, max)
 ![Screenshot (84)](https://user-images.githubusercontent.com/89978688/170882519-08fac558-88bc-48a0-b3ec-dc526a66f9de.png)
@@ -56,11 +56,13 @@ This analysis gives us the relation between Mileage and price.
 From the graph its visible that expensive cars tend to have worse mileage
 
 Relation between power and price considering different body type.
+![Relation btw power and price](https://user-images.githubusercontent.com/89978688/170883229-c803aeff-da74-49f3-9757-81f90bdbe851.png)
 
 
 Made scatter plot between two related variables which concluded that power seems to be highly related to price
 
-Heapmap is used to find the correlation between the features.
+Heapmap is used to find the correlation between the features.![Heat map](https://user-images.githubusercontent.com/89978688/170883199-df39ecd0-7699-4cd4-8dc8-cf911ad02878.png)
+
 
 As seen in heapmap we can see strong correlation between power and displacement
 
@@ -70,17 +72,25 @@ Scatter plot grid of more numerical variable is done to  investigate the realtio
 ANALYSIS 4
 
 Univariant Analysis is done between:
+
 Cylinders-Most cylinders lie in range of 4-5
+
 Displacement-Most cars has a displacement of 1000cc
+
 Wheelbase-Most cars has wheelbase of of 2400-2600
+
 Fuel_Tank_Capacity-Most cars has Fuel tank capacity of of 40-50litres
+
 Power-Most cars occupy power between 20-150hp
+
 Price-Most cars price lie in the range of 550 le7
 
 Bivariant Analysis is done between:
 
 Price,Make 
+
 Model,Make of cars.
+
 Correlation between the features of cars is done to get indepth analysis.
 
 Seabron catplot provides access to several axes-level functions that show the relationship between a numerical and one or more categorical variables.

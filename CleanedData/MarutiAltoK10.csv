@@ -1,0 +1,7 @@
+Make,Model,Variant,Price,Displacement,Cylinders,Drivetrain,Fuel_System,Fuel_Tank_Capacity,Fuel_Type,Height,Length,Width,Doors,City_Mileage,ARAI_Certified_Mileage,Power,Torque,Type,Wheelbase
+Maruti Suzuki,Alto K10,Lxi,"3,77,588",998,3,FWD (Front Wheel Drive),Injection,35,Petrol,1475,3545,1490,5,14,24.07,68,90,Manual,2360
+Maruti Suzuki,Alto K10,Vxi,"3,94,036",998,3,FWD (Front Wheel Drive),Injection,35,Petrol,1475,3545,1490,5,14,24.07,68,90,Manual,2360
+Maruti Suzuki,Alto K10,Lx,"3,60,843",998,3,FWD (Front Wheel Drive),Injection,35,Petrol,1475,3545,1490,5,19,24.07,68,90,Manual,2360
+Maruti Suzuki,Alto K10,Vxi (O),"4,07,238",998,3,FWD (Front Wheel Drive),Injection,35,Petrol,1460,3620,1475,5,14,24.07,68,90,Manual,2360
+Maruti Suzuki,Alto K10,Lxi Cng (O),"4,39,777",998,3,FWD (Front Wheel Drive),Injection,35,CNG,1475,3545,1490,5,,,59,78,Manual,2360
+Maruti Suzuki,Alto K10,Vxi Amt (O),"4,38,559",998,3,FWD (Front Wheel Drive),Injection,35,Petrol,1475,3545,1490,5,14,24.07,68,90,Automatic,2360

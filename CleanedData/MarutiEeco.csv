@@ -1,0 +1,6 @@
+Make,Model,Variant,Price,Displacement,Cylinders,Drivetrain,Fuel_System,Fuel_Tank_Capacity,Fuel_Type,Height,Length,Width,Doors,City_Mileage,ARAI_Certified_Mileage,Power,Torque,Type,Wheelbase
+Maruti Suzuki,Eeco,5 Str,"3,52,136",1196,4,RWD (Rear Wheel Drive),Injection,40,Petrol,1800,3675,1475,5,12,15,73,101,Manual,2350
+Maruti Suzuki,Eeco,7 Str,"3,80,573",1196,4,FWD (Front Wheel Drive),Injection,40,Petrol,1800,3675,1475,5,12,15,74,101,Manual,2350
+Maruti Suzuki,Eeco,5 Str With Ac+Htr,"3,92,967",1196,4,RWD (Rear Wheel Drive),Injection,40,Petrol,1800,3675,1475,5,11,15,73,101,Manual,2350
+Maruti Suzuki,Eeco,5 Str With Ac+Htr Cng,"4,66,057",1196,4,RWD (Rear Wheel Drive),Injection,40,CNG,1800,3675,1475,5,,,62,85,Manual,2350
+Maruti Suzuki,Eeco,5 Str With Htr Cng,"4,25,255",1196,4,RWD (Rear Wheel Drive),Injection,40,CNG,1800,3675,1475,5,,,62,85,Manual,2350

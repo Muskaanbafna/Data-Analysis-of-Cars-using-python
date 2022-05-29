@@ -1,0 +1,9 @@
+Make,Model,Variant,Price,Displacement,Cylinders,Drivetrain,Fuel_System,Fuel_Tank_Capacity,Fuel_Type,Height,Length,Width,Doors,City_Mileage,ARAI_Certified_Mileage,Power,Torque,Type,Wheelbase
+Hyundai,Santro,Era Mt,"4,29,990",1086,4,FWD (Front Wheel Drive),Injection,35,Petrol,1560,3610,1645,4,,20.3,69,99.04,Manual,2400
+Hyundai,Santro,Magna Mt,"5,03,990",1086,4,FWD (Front Wheel Drive),Injection,35,Petrol,1560,3610,1645,4,,20.3,69,99.04,Manual,2400
+Hyundai,Santro,Magna Mt Cng,"5,47,990",1086,4,FWD (Front Wheel Drive),Injection,35,CNG,1560,3610,1645,4,,,59,99.04,Manual,2400
+Hyundai,Santro,Magna Amt,"5,30,990",1086,4,FWD (Front Wheel Drive),Injection,35,Petrol,1560,3610,1645,4,,20.3,69,10.1,AMT,2400
+Hyundai,Santro,Sportz Mt,"5,12,990",1086,4,FWD (Front Wheel Drive),Injection,35,Petrol,1560,3610,1645,4,,20.3,69,10.1,Manual,2400
+Hyundai,Santro,Sportz Mt Cng,"5,78,990",1086,4,FWD (Front Wheel Drive),Injection,60,CNG,1560,3610,1645,4,,,59,8.3,Manual,2400
+Hyundai,Santro,Sportz Amt,"5,70,990",1086,4,FWD (Front Wheel Drive),Injection,35,Petrol,1560,3610,1645,4,,20.3,69,10.1,AMT,2400
+Hyundai,Santro,Asta Mt,"5,56,490",1086,4,FWD (Front Wheel Drive),Injection,35,Petrol,1560,3610,1645,4,,20.3,69,99.04,Manual,2400

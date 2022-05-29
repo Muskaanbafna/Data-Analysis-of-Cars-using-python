@@ -1,0 +1,15 @@
+Make,Model,Variant,Price,Displacement,Cylinders,Drivetrain,Fuel_System,Fuel_Tank_Capacity,Fuel_Type,Height,Length,Width,Doors,City_Mileage,ARAI_Certified_Mileage,Power,Torque,Type,Wheelbase
+Maruti Suzuki,Dzire,Lxi,"5,82,613",1197,4,FWD (Front Wheel Drive),Injection,37,Petrol,1515,3995,1735,4,16.3,22,84.3,115,Manual,2450
+Maruti Suzuki,Dzire,Vxi,"6,73,112",1197,4,FWD (Front Wheel Drive),Injection,37,Petrol,1515,3995,1735,4,16.3,22,84.3,115,Manual,2450
+Maruti Suzuki,Dzire,Ldi,"6,66,622",1248,4,FWD (Front Wheel Drive),Injection,37,Diesel,1515,3995,1735,4,28.4,28.4,75,190,Manual,2450
+Maruti Suzuki,Dzire,Zxi,"7,32,113",1197,4,FWD (Front Wheel Drive),Injection,37,Petrol,1515,3995,1735,4,16.3,22,84.3,115,Manual,2450
+Maruti Suzuki,Dzire,Vdi,"7,57,622",1248,4,FWD (Front Wheel Drive),Injection,37,Diesel,1515,3995,1735,4,28.4,28.4,75,190,Manual,2450
+Maruti Suzuki,Dzire,Vxi Amt,"7,20,112",1197,4,FWD (Front Wheel Drive),Injection,37,Petrol,1515,3995,1735,4,16.3,22,84.3,115,Automatic,2450
+Maruti Suzuki,Dzire,Zdi Amt,"8,63,122",1248,4,FWD (Front Wheel Drive),Injection,37,Diesel,1515,3995,1735,4,28.4,28.4,75,190,Automatic,2450
+Maruti Suzuki,Dzire,Zdi,"8,16,622",1248,4,FWD (Front Wheel Drive),Injection,37,Diesel,1515,3995,1735,4,28.4,28.4,75,190,Manual,2450
+Maruti Suzuki,Dzire,Zxi Plus,"8,21,613",1197,4,FWD (Front Wheel Drive),Injection,37,Petrol,1515,3995,1735,4,16.3,22,84.3,115,Manual,2450
+Maruti Suzuki,Dzire,Zxi At,"7,79,113",1197,4,FWD (Front Wheel Drive),Injection,37,Petrol,1515,3995,1735,4,16.3,22,84.3,115,Automatic,2450
+Maruti Suzuki,Dzire,Zxi Plus Amt,"8,68,613",1197,4,FWD (Front Wheel Drive),Injection,37,Petrol,1515,3995,1735,4,16.3,22,84.3,115,Automatic,2450
+Maruti Suzuki,Dzire,Zdi Plus,"9,06,122",1248,4,FWD (Front Wheel Drive),Injection,37,Diesel,1515,3995,1735,4,28.4,28.4,75,190,Manual,2450
+Maruti Suzuki,Dzire,Vdi Amt,"8,04,622",1248,4,FWD (Front Wheel Drive),Injection,37,Diesel,1515,3995,1735,4,28.4,28.4,75,190,Automatic,2450
+Maruti Suzuki,Dzire,Zdi Plus Amt,"9,52,622",1248,4,FWD (Front Wheel Drive),Injection,37,Diesel,1515,3995,1735,4,28.4,28.4,75,190,Automatic,2450

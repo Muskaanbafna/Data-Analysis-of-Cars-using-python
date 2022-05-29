@@ -1,0 +1,7 @@
+Make,Model,Variant,Price,Displacement,Cylinders,Drivetrain,Fuel_System,Fuel_Tank_Capacity,Fuel_Type,Height,Length,Width,Doors,City_Mileage,ARAI_Certified_Mileage,Power,Torque,Type,Wheelbase
+Hyundai,Xcent Prime,Cng T + (Cng +,"5,56,130",1197,4,FWD (Front Wheel Drive),Injection,43,CNG ,1520,3995,1660,4,,,83,114,Manual,2425
+Hyundai,Xcent Prime,T,"5,36,859",1197,4,FWD (Front Wheel Drive),Injection,43,Petrol,1520,3995,1660,4,,15.7,83,114,Manual,2425
+Hyundai,Xcent Prime,T+,"5,56,130",1197,4,FWD (Front Wheel Drive),Injection,43,Petrol,1520,3995,1660,4,,,83,114,Manual,2425
+Hyundai,Xcent Prime,Cng T (Cng +,"5,36,859",1197,4,FWD (Front Wheel Drive),Injection,43,CNG ,1520,3995,1660,4,,,81.8,114,Manual,2425
+Hyundai,Xcent Prime,T+ Crdi,"6,39,616",1197,4,FWD (Front Wheel Drive),Injection,43,Diesel,1520,3995,1660,4,,20.14,70,114,Manual,2425
+Hyundai,Xcent Prime,T Crdi,"6,20,297",1197,4,FWD (Front Wheel Drive),Injection,43,Diesel,1520,3995,1660,4,,20,71,114,Manual,2425

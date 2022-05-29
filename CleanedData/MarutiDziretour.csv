@@ -1,0 +1,3 @@
+Make,Model,Variant,Price,Displacement,Cylinders,Drivetrain,Fuel_System,Fuel_Tank_Capacity,Fuel_Type,Height,Length,Width,Doors,City_Mileage,ARAI_Certified_Mileage,Power,Torque,Type,Wheelbase
+Maruti Suzuki,Dzire Tour,Ldi,"6,53,523",1248,4,FWD (Front Wheel Drive),Injection,42,Diesel,1555,3995,1695,4,14.6,28.4,75,190,Manual,2430
+Maruti Suzuki,Dzire Tour,Lxi,"5,53,423",1197,4,FWD (Front Wheel Drive),Injection,42,Petrol,1555,3995,1695,4,16.3,22,83,115,Manual,2430

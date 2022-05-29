@@ -1,0 +1,9 @@
+Make,Model,Variant,Price,Displacement,Cylinders,Drivetrain,Fuel_System,Fuel_Tank_Capacity,Fuel_Type,Height,Length,Width,Doors,City_Mileage,ARAI_Certified_Mileage,Power,Torque,Type,Wheelbase
+Ford,Freestyle,1.5L Tdci Ambiente,"6,76,400",1498,4,FWD (Front Wheel Drive),Injection,40,Diesel,1570,3954,1737,5,,24.4,100,215,Manual,2490
+Ford,Freestyle,1.5L Tdci Titanium,"7,90,900",1498,4,FWD (Front Wheel Drive),Injection,40,Diesel,1570,3954,1737,5,,24.4,100,215,Manual,2490
+Ford,Freestyle,1.5L Tdci Titanium Plus,"8,36,400",1498,4,FWD (Front Wheel Drive),Injection,40,Diesel,1570,3954,1737,5,,24.4,100,215,Manual,2490
+Ford,Freestyle,1.2L Ti-Vct Ambiente,"5,91,400",1194,3,FWD (Front Wheel Drive),Injection,42,Petrol,1570,3954,1737,5,,19,96,120,Manual,2490
+Ford,Freestyle,1.2L Ti-Vct Titanium,"7,21,400",1194,3,FWD (Front Wheel Drive),Injection,42,Petrol,1570,3954,1737,5,,19,96,120,Manual,2490
+Ford,Freestyle,1.2L Ti-Vct Titanium Plus,"7,56,400",1194,3,FWD (Front Wheel Drive),Injection,42,Petrol,1570,3954,1737,5,,19,96,120,Manual,2490
+Ford,Freestyle,1.2L Ti-Vct Trend Plus,"6,81,400",1194,3,FWD (Front Wheel Drive),Injection,42,Petrol,1570,3954,1737,5,,19,96,120,Manual,2490
+Ford,Freestyle,1.5L Tdci Trend Plus,"7,45,900",1498,3,FWD (Front Wheel Drive),Injection,42,Diesel,1570,3954,1737,5,,24.4,100,215,Manual,2490

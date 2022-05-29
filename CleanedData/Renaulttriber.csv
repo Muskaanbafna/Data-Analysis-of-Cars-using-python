@@ -1,0 +1,5 @@
+Make,Model,Variant,Price,Displacement,Cylinders,Drivetrain,Fuel_System,Fuel_Tank_Capacity,Fuel_Type,Height,Length,Width,Doors,City_Mileage,ARAI_Certified_Mileage,Power,Torque,Type,Wheelbase
+Renault,Triber,Rxe,"4,95,000",999,3,FWD (Front Wheel Drive),Injection,40,Petrol,1643,3990,1739,5,,20.5,72,96,Manual,2636
+Renault,Triber,Rxl,"5,59,000",999,3,FWD (Front Wheel Drive),Injection,40,Petrol,1643,3990,1739,5,,20.5,72,96,Manual,2636
+Renault,Triber,Rxt,"6,09,000",999,3,FWD (Front Wheel Drive),Injection,40,Petrol,1643,3990,1739,5,,20.5,72,96,Manual,2636
+Renault,Triber,Rxz,"6,63,000",999,3,FWD (Front Wheel Drive),Injection,40,Petrol,1643,3990,1739,5,,20.5,72,96,Manual,2636

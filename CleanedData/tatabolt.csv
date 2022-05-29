@@ -1,0 +1,9 @@
+Make,Model,Variant,Price,Displacement,Cylinders,Drivetrain,Fuel_System,Fuel_Tank_Capacity,Fuel_Type,Height,Length,Width,Doors,City_Mileage,ARAI_Certified_Mileage,Power,Torque,Type,Wheelbase
+Tata,Bolt,Xt Diesel,"7,87,980",1248,4,FWD (Front Wheel Drive),Injection,44,Diesel,1562,3825,1695,5,22.9,22.95,75,190,Manual,2470
+Tata,Bolt,Xe Diesel,"6,61,111",1248,4,FWD (Front Wheel Drive),Injection,44,Diesel,1562,3825,1695,5,22.9,22.95,75,190,Manual,2470
+Tata,Bolt,Xm Diesel,"6,93,798",1248,4,FWD (Front Wheel Drive),Injection,44,Diesel,1562,3825,1695,5,22.9,22.95,75,190,Manual,2470
+Tata,Bolt,Xms Diesel,"7,19,661",1248,4,FWD (Front Wheel Drive),Injection,44,Diesel,1562,3825,1695,5,22.9,22.95,75,190,Manual,2470
+Tata,Bolt,Xt Petrol,"6,74,960",1193,4,FWD (Front Wheel Drive),Injection,44,Petrol,1562,3825,1695,5,17.5,17.57,90,140,Manual,2470
+Tata,Bolt,Xe Petrol,"5,29,035",1193,4,FWD (Front Wheel Drive),Injection,44,Petrol,1562,3825,1695,5,17.5,17.57,90,140,Manual,2470
+Tata,Bolt,Xm Petrol,"5,90,268",1193,4,FWD (Front Wheel Drive),Injection,44,Petrol,1562,3825,1695,5,17.5,17.57,90,140,Manual,2470
+Tata,Bolt,Xms Petrol,"6,14,515",1193,4,FWD (Front Wheel Drive),Injection,44,Petrol,1562,3825,1695,5,17.5,17.57,90,140,Manual,2470

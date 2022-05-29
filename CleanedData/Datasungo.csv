@@ -1,0 +1,10 @@
+Make,Model,Variant,Price,Displacement,Cylinders,Drivetrain,Fuel_System,Fuel_Tank_Capacity,Fuel_Type,Height,Length,Width,Doors,City_Mileage,ARAI_Certified_Mileage,Power,Torque,Type,Wheelbase
+Datsun,Go,D,"3,74,990",1198,3,FWD (Front Wheel Drive),Injection,35,Petrol,1507,3788,1636,5,,20.1,68,104,Manual,2450
+Datsun,Go,T,"4,68,229",1198,3,FWD (Front Wheel Drive),Injection,35,Petrol,1507,3788,1636,5,,20.1,68,104,Manual,2450
+Datsun,Go,T (O),"5,02,492",1198,3,FWD (Front Wheel Drive),Injection,35,Petrol,1507,3788,1636,5,20.6,20.1,68,104,Manual,2450
+Datsun,Go,A (O),"4,99,990",1198,3,FWD (Front Wheel Drive),Injection,35,Petrol,1507,3788,1636,5,20.6,20.1,68,104,Manual,2450
+Datsun,Go,A,"4,69,990",1198,3,FWD (Front Wheel Drive),Injection,35,Petrol,1507,3788,1636,5,20.6,20.1,68,104,Manual,2450
+Datsun,Go,T Vdc,"5,28,464",1198,3,FWD (Front Wheel Drive),Injection,35,Petrol,1507,3788,1636,5,,20.1,68,104,Manual,2450
+Datsun,Go,T (O) Vdc,"5,53,015",1198,3,FWD (Front Wheel Drive),Injection,35,Petrol,1507,3788,1636,5,20.6,20.1,68,104,Manual,2450
+Datsun,Go,T Cvt,"5,94,464",1198,3,FWD (Front Wheel Drive),Injection,35,Petrol,1507,3788,1636,5,,20.1,78,104,Manual,2450
+Datsun,Go,T (O) Cvt,"6,18,015",1198,3,FWD (Front Wheel Drive),Injection,35,Petrol,1507,3788,1636,5,20.6,20.1,78,104,Manual,2450

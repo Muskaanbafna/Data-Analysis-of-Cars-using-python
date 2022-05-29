@@ -1,0 +1,8 @@
+Make,Model,Variant,Price,Displacement,Cylinders,Drivetrain,Fuel_System,Fuel_Tank_Capacity,Fuel_Type,Height,Length,Width,Doors,City_Mileage,ARAI_Certified_Mileage,Power,Torque,Type,Wheelbase
+Maruti Suzuki,Ignis,Alpha 1.2 Amt,"7,13,898",1197,4,FWD (Front Wheel Drive),Injection,32,Petrol,1595,3700,1690,5,20.89,20.89,83,113,AMT,2435
+Maruti Suzuki,Ignis,Alpha 1.2 Mt,"6,66,898",1197,4,FWD (Front Wheel Drive),Injection,32,Petrol,1595,3700,1690,5,20.89,20.89,83,113,Manual,2435
+Maruti Suzuki,Ignis,Delta 1.2 Amt,"6,07,841",1197,4,FWD (Front Wheel Drive),Injection,32,Petrol,1595,3700,1690,5,20.89,20.89,83,113,AMT,2435
+Maruti Suzuki,Ignis,Delta 1.2 Mt,"5,60,841",1197,4,FWD (Front Wheel Drive),Injection,32,Petrol,1595,3700,1690,5,20.89,20.89,83,113,Manual,2435
+Maruti Suzuki,Ignis,Sigma 1.2 Mt,"4,83,320",1197,4,FWD (Front Wheel Drive),Injection,32,Petrol,1595,3700,1690,5,20.89,20.89,83,113,Manual,2435
+Maruti Suzuki,Ignis,Zeta 1.2 Amt,"6,30,320",1197,4,FWD (Front Wheel Drive),Injection,32,Petrol,1595,3700,1690,5,15.1,20.89,83,113,AMT,2435
+Maruti Suzuki,Ignis,Zeta 1.2 Mt,"5,83,320",1197,4,FWD (Front Wheel Drive),Injection,32,Petrol,1595,3700,1690,5,20.89,20.89,83,113,Manual,2435

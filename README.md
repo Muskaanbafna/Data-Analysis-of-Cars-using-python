@@ -84,22 +84,31 @@ Fuel_Tank_Capacity-Most cars has Fuel tank capacity of of 40-50litres
 Power-Most cars occupy power between 20-150hp
 
 Price-Most cars price lie in the range of 550 le7
+![Univariant Analysis](https://user-images.githubusercontent.com/89978688/170883720-878a0e0f-cdbc-4ea2-90e2-84fcc7cbbf60.png)
+
 
 Bivariant Analysis is done between:
 
-Price,Make 
+Price,Make-From the graph it is clearly visible that the price of bentley is highest.
 
-Model,Make of cars.
+Model,Make of cars-From the graph it is clearly visible that the price of Bugatti Chiron sport is most expensive
 
 Correlation between the features of cars is done to get indepth analysis.
 
+
+Boxplot between city mileage and price-From the graph we can see that Hyundai Aura has highest mileage.
+
 Seabron catplot provides access to several axes-level functions that show the relationship between a numerical and one or more categorical variables.
 
-Seaborn Catplot is shown between Make , Price , Type of cars.
+Seaborn Catplot is shown between Make , Price , Type of cars.![catplot2](https://user-images.githubusercontent.com/89978688/170883693-73ad6d3b-1f41-4101-b341-31e11f213cf1.png)
+
 
 Pairplot helps to form some simple classification models by drawing some simple lines or make linear separation in the data-set.
 
+
 Pairplot between Fuel_Tank_Capacity,Displacement,Price,Power is shown 
+![Pairplot](https://user-images.githubusercontent.com/89978688/170883727-e67b784a-0512-435e-9a47-765f97ab2496.png)
+
 
 ANALYSIS 5
 
@@ -107,9 +116,17 @@ The method of Clustering is used in Analysis 5
 
 The type of clustering used here is k-means clustering k-means clustering is a method of vector quantization, originally from signal processing, that aims to partition n observations into k clusters in which each observation belongs to the cluster with the nearest mean (cluster centers or cluster centroid), serving as a prototype of the cluster. This results in a partitioning of the data space into Voronoi cells. k-means clustering minimizes within-cluster variances (squared Euclidean distances)
 Creating and visualizing the data is done.
+![Cluster1](https://user-images.githubusercontent.com/89978688/170883779-c03d047e-bd0f-48ee-94bf-b7b6bfc3bbd4.png)
+![Cluster2](https://user-images.githubusercontent.com/89978688/170883782-d72745c7-d4f6-49b6-94e9-4c8b4f48fc45.png)
+![K-means and original](https://user-images.githubusercontent.com/89978688/170883785-a9b4af40-a071-483a-bcb5-e962f582e028.png)
+
 
 Scatter plot of Fuel tank capacity and Cylinders with clusters is shown.
+![plot of Fuel tank capacity and Cylinders with clusters](https://user-images.githubusercontent.com/89978688/170883748-e9aee72d-02c4-40e4-87fe-dc565af28fd1.png)
+
 
 Interactive 3D scatter plot of Price,power, and Fuel tank capacity using  clusters is shown.
+![Screenshot (86)](https://user-images.githubusercontent.com/89978688/170883929-d35453d1-e9f0-4d53-afb4-10b36e429fff.png)
+
 
 

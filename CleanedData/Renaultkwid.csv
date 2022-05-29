@@ -1,0 +1,13 @@
+Make,Model,Variant,Price,Displacement,Cylinders,Drivetrain,Fuel_System,Fuel_Tank_Capacity,Fuel_Type,Height,Length,Width,Doors,City_Mileage,ARAI_Certified_Mileage,Power,Torque,Type,Wheelbase
+Renault,Kwid,Rxe 0.8,"3,53,290",799,3,FWD (Front Wheel Drive),Injection,28,Petrol,1490,3731,1579,5,25.17,25.17,54,72,Manual,2422
+Renault,Kwid,Std 0.8,"2,83,290",799,3,FWD (Front Wheel Drive),Injection,28,Petrol,1490,3731,1579,5,25.17,25.17,54,72,Manual,2442
+Renault,Kwid,Rxl 0.8,"3,83,290",799,3,FWD (Front Wheel Drive),Injection,28,Petrol,1490,3731,1579,5,25.17,25.17,54,72,Manual,2422
+Renault,Kwid,Rxt 0.8,"4,13,290",799,3,FWD (Front Wheel Drive),Injection,28,Petrol,1490,3731,1580,5,25.17,25.17,54,72,Manual,2422
+Renault,Kwid,Rxt 1.0,"4,33,290",999,3,FWD (Front Wheel Drive),Injection,28,Petrol,1490,3731,1579,5,25.17,23.01,68,91,Manual,2422
+Renault,Kwid,Climber 1.0 Mt,"4,54,490",999,3,FWD (Front Wheel Drive),Injection,28,Petrol,1490,3731,1579,5,25.17,23.01,68,91,Manual,2422
+Renault,Kwid,Rxt Amt 1.0,"4,63,290",999,3,FWD (Front Wheel Drive),Injection,28,Petrol,1490,3731,1579,5,25.17,24.04,68,91,Automatic,2422
+Renault,Kwid,Climber Amt 1.0,"4,84,490",999,3,FWD (Front Wheel Drive),Injection,28,Petrol,1490,3731,1579,5,25.17,24.04,68,91,Automatic,2422
+Renault,Kwid,Rxt (O) 1.0,"4,40,990",999,3,FWD (Front Wheel Drive),Injection,28,Petrol,1490,3731,1579,5,25.17,23.01,68,91,Manual,2422
+Renault,Kwid,Rxt (O) Amt 1.0,"4,70,990",999,3,FWD (Front Wheel Drive),Injection,28,Petrol,1490,3731,1579,5,25.17,23.01,68,91,Automatic,2422
+Renault,Kwid,Climber (O) Mt 1.0,"4,62,190",999,3,FWD (Front Wheel Drive),Injection,28,Petrol,1490,3731,1579,5,25.17,23.01,68,91,Manual,2422
+Renault,Kwid,Climber (O) Amt 1.0,"4,92,190",999,3,FWD (Front Wheel Drive),Injection,28,Petrol,1490,3731,1579,5,25.17,24.04,68,91,Automatic,2422

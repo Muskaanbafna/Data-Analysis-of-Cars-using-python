@@ -1,0 +1,12 @@
+Make,Model,Variant,Price,Displacement,Cylinders,Drivetrain,Fuel_System,Fuel_Tank_Capacity,Fuel_Type,Height,Length,Width,Doors,City_Mileage,ARAI_Certified_Mileage,Power,Torque,Type,Wheelbase
+Maruti Suzuki,Celerio,Lxi,"4,26,289",998,3,FWD (Front Wheel Drive),Injection,35,Petrol,1560,3600,1600,5,23,23.1,68,90,Manual,2425
+Maruti Suzuki,Celerio,Vxi,"4,65,138",998,3,FWD (Front Wheel Drive),Injection,35,Petrol,1560,3600,1600,5,23,23.1,68,90,Manual,2425
+Maruti Suzuki,Celerio,Vxi At,"5,08,138",998,3,FWD (Front Wheel Drive),Injection,35,Petrol,1560,3600,1600,5,23,23.1,68,90,Automatic,2425
+Maruti Suzuki,Celerio,Zxi,"4,90,924",998,3,FWD (Front Wheel Drive),Injection,35,Petrol,1560,3600,1600,5,23,23.1,68,90,Manual,2425
+Maruti Suzuki,Celerio,Zxi (Opt),"5,31,279",998,3,FWD (Front Wheel Drive),Injection,35,Petrol,1560,3600,1600,5,23,23.1,68,90,Manual,2425
+Maruti Suzuki,Celerio,Vxi Cng Mt,"5,30,000",998,3,FWD (Front Wheel Drive),Injection,35,CNG,1560,3600,1600,5,,,59,78,Manual,2425
+Maruti Suzuki,Celerio,Zxi Ags,"5,33,924",998,3,FWD (Front Wheel Drive),Injection,35,Petrol,1560,3600,1600,5,23,23.1,68,90,Automatic,2425
+Maruti Suzuki,Celerio,Lxi Mt (O),"4,34,659",998,3,FWD (Front Wheel Drive),Injection,35,Petrol,1560,3600,1600,5,23,23.1,68,90,Manual,2425
+Maruti Suzuki,Celerio,Vxi (O) Mt,"4,72,257",998,3,FWD (Front Wheel Drive),Injection,35,Petrol,1560,3600,1600,5,23,23.1,68,90,Manual,2425
+Maruti Suzuki,Celerio,Vxi (O) Ags,"5,15,257",998,3,FWD (Front Wheel Drive),Injection,35,Petrol,1560,3600,1600,5,23,23.1,68,90,Automatic,2425
+Maruti Suzuki,Celerio,Zxi (O) Ags,"5,43,279",998,3,FWD (Front Wheel Drive),Injection,35,Petrol,1560,3600,1600,5,23,23.1,68,90,Automatic,2425

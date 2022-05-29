@@ -1,0 +1,12 @@
+Make,Model,Variant,Price,Displacement,Cylinders,Drivetrain,Fuel_System,Fuel_Tank_Capacity,Fuel_Type,Height,Length,Width,Doors,City_Mileage,ARAI_Certified_Mileage,Power,Torque,Type,Wheelbase
+Mahindra,Tuv300,T4 Plus,"8,54,328",1493,3,RWD (Rear Wheel Drive),Injection,60,Diesel,1817,3995,1835,5,18.49,18.49,84,240,Manual,2680
+Mahindra,Tuv300,T6 Plus,"9,14,328",1493,3,RWD (Rear Wheel Drive),Injection,60,Diesel,1817,3995,1835,5,18.49,18.49,84,240,Manual,2680
+Mahindra,Tuv300,T8,"9,76,592",1493,3,RWD (Rear Wheel Drive),Injection,60,Diesel,1817,3995,1835,5,18.49,18.49,84,240,Manual,2680
+Mahindra,Tuv300,T10,"9,99,614",1493,3,RWD (Rear Wheel Drive),Injection,60,Diesel,1839,3995,1835,5,18.49,18.49,100,240,Manual,2680
+Mahindra,Tuv300,T10 (O),"10,31,943",1493,3,RWD (Rear Wheel Drive),Injection,60,Diesel,1839,3995,1835,5,18.49,18.49,100,240,Manual,2680
+Mahindra,Tuv300,T10 Dual Tone,"10,22,930",1493,3,RWD (Rear Wheel Drive),Injection,60,Diesel,1839,3995,1835,5,18.49,18.49,100,240,Manual,2680
+Mahindra,Tuv300,T10 (O) Dual Tone,"10,55,259",1493,3,RWD (Rear Wheel Drive),Injection,60,Diesel,1839,3995,1835,5,18.49,18.49,100,240,Manual,2680
+Maruti Suzuki,S-Cross,1.3L Sigma,"8,80,689",1248,4,FWD (Front Wheel Drive),Injection,48,Diesel,1595,4300,1785,5,23.65,23.65,90,200,Manual,2600
+Maruti Suzuki,S-Cross,1.3L Delta,"9,92,689",1248,4,FWD (Front Wheel Drive),Injection,48,Diesel,1595,4300,1785,5,23.65,23.65,90,200,Manual,2600
+Maruti Suzuki,S-Cross,1.3L Zeta,"10,43,689",1248,4,FWD (Front Wheel Drive),Injection,48,Diesel,1595,4300,1785,5,23.65,23.65,90,200,Manual,2600
+Maruti Suzuki,S-Cross,1.3L Alpha,"11,43,689",1248,4,FWD (Front Wheel Drive),Injection,48,Diesel,1595,4300,1785,5,23.65,23.65,90,200,Manual,2600

@@ -1,0 +1,6 @@
+Make,Model,Variant,Price,Displacement,Cylinders,Drivetrain,Fuel_System,Fuel_Tank_Capacity,Fuel_Type,Height,Length,Width,Doors,City_Mileage,ARAI_Certified_Mileage,Power,Torque,Type,Wheelbase
+Maserati,Levante,Diesel,"1,45,12,054",2987,6,AWD (All Wheel Drive),Injection,80,Diesel,1679,5003,2158,4,5.2,7.9,275,600,Automatic,3004
+Maserati,Levante,Gransport,"1,48,63,774",2979,6,AWD (All Wheel Drive),Injection,80,Diesel,1679,5003,2158,5,5.2,7.9,350,500,Automatic,3004
+Maserati,Levante,Granlusson,"1,53,83,399",2979,6,AWD (All Wheel Drive),Injection,80,Diesel,1679,5003,2158,5,5.2,7.9,430,580,Automatic,3004
+Maserati,Granturismo,Sport,"1,72,29,579",4691,8,RWD (Rear Wheel Drive),Injection,86,Petrol,1353,4881,1915,2,4.6,10,460,520,Automatic,2942
+Maserati,Quattroporte,Granlusso,"1,79,00,000",2987,6,RWD (Rear Wheel Drive),Injection,70,Diesel,1481,5262,1948,4,5.2,7.9,275,600,Automatic,3171

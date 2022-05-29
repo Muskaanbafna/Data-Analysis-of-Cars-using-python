@@ -1,0 +1,7 @@
+Make,Model,Variant,Price,Displacement,Cylinders,Drivetrain,Fuel_System,Fuel_Tank_Capacity,Fuel_Type,Height,Length,Width,Doors,City_Mileage,ARAI_Certified_Mileage,Power,Torque,Type,Wheelbase
+Hyundai,Grand I10 Prime,Era T Crdi,"5,51,530",1120,3,FWD (Front Wheel Drive),Injection,43,Diesel,1520,3765,1660,5,24,,71,16.3,Manual,2425
+Hyundai,Grand I10 Prime,Era T+ Crdi,"5,68,930",1120,3,FWD (Front Wheel Drive),Injection,43,Diesel,1520,3765,1660,5,24,,71,16.3,Manual,2425
+Hyundai,Grand I10 Prime,Era T Vtvt,"4,60,369",1197,4,FWD (Front Wheel Drive),Injection,43,Petrol,1520,3765,1660,5,18.9,19.77,83,114,Manual,2425
+Hyundai,Grand I10 Prime,Era T+ Vtvt,"4,77,511",1197,4,FWD (Front Wheel Drive),Injection,43,Petrol,1520,3765,1660,5,18.9,19.77,83,114,Manual,2425
+Hyundai,Grand I10 Prime,Era T+ Cng Vtvt,"5,45,946",1197,4,FWD (Front Wheel Drive),Injection,43,CNG,1520,3765,1660,5,,,83,114,Manual,2425
+Hyundai,Grand I10 Prime,Era T Cng Vtvt,"5,28,804",1197,4,FWD (Front Wheel Drive),Injection,43,CNG,1520,3765,1660,5,,,83,114,Manual,2425

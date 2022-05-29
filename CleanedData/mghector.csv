@@ -1,0 +1,12 @@
+Make,Model,Variant,Price,Displacement,Cylinders,Drivetrain,Fuel_System,Fuel_Tank_Capacity,Fuel_Type,Height,Length,Width,Doors,City_Mileage,ARAI_Certified_Mileage,Power,Torque,Type,Wheelbase
+Mg,Hector,1.5L Style,"12,48,000",1500,4,FWD (Front Wheel Drive),Injection,,Petrol,1760,4655,1835,5,,,141,250,Manual,2750
+Mg,Hector,2.0L Style,"13,48,000",2000,4,FWD (Front Wheel Drive),Injection,,Diesel,1760,4655,1835,5,,17.41,168,350,Manual,2750
+Mg,Hector,2.0L Super,"14,48,000",2000,4,FWD (Front Wheel Drive),Injection,,Diesel,1760,4655,1835,5,,17.41,168,350,Manual,2750
+Mg,Hector,2.0L Smart,"15,88,000",2000,4,FWD (Front Wheel Drive),Injection,,Diesel,1760,4655,1835,5,,17.41,168,350,Manual,2750
+Mg,Hector,2.0L Sharp,"17,28,000",2000,4,FWD (Front Wheel Drive),Injection,,Diesel,1760,4655,1835,5,,17.41,168,350,Manual,2750
+Mg,Hector,1.5L Super,"13,28,000",1500,4,FWD (Front Wheel Drive),Injection,,Petrol,1760,4655,1835,5,,,141,250,Manual,2750
+Mg,Hector,1.5L Super Hybrid,"13,88,000",1500,4,FWD (Front Wheel Drive),Injection,,Hybrid,1760,4655,1835,5,,,141,250,Manual,2750
+Mg,Hector,1.5L Sharp Hybrid,"16,28,000",1500,4,FWD (Front Wheel Drive),Injection,,Hybrid,1760,4655,1835,5,,,141,250,Manual,2750
+Mg,Hector,1.5L Smart Hybrid,"14,98,000",1500,4,FWD (Front Wheel Drive),Injection,,Hybrid,1760,4655,1835,5,,,141,250,Manual,2750
+Mg,Hector,1.5L Smart Dct,"15,68,000",1500,4,FWD (Front Wheel Drive),Injection,,Petrol,1760,4655,1835,5,,,141,250,DCT,2750
+Mg,Hector,1.5L Sharp Dct,"17,18,000",1500,4,FWD (Front Wheel Drive),Injection,,Petrol,1760,4655,1835,5,,,141,250,DCT,2750

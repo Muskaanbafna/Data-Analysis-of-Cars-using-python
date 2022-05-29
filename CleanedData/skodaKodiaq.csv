@@ -1,0 +1,4 @@
+Make,Model,Variant,Price,Displacement,Cylinders,Drivetrain,Fuel_System,Fuel_Tank_Capacity,Fuel_Type,Height,Length,Width,Doors,City_Mileage,ARAI_Certified_Mileage,Power,Torque,Type,Wheelbase
+Skoda,Kodiaq,Style 2.0 Tdi 4X4 At,"32,99,599",1968,4,FWD (Front Wheel Drive),Injection,66,Diesel,1483,4861,1864,4,15.1,18.19,177,350,Automatic,2841
+Skoda,Kodiaq,Laurin And Klement,"36,78,599",1968,4,FWD (Front Wheel Drive),Injection,66,Diesel,1483,4861,1864,4,15.1,18.19,148,340,Automatic,2841
+Skoda,Kodiaq,Corporate Edition,"32,99,599",1968,4,FWD (Front Wheel Drive),Injection,66,Diesel,1483,4861,1864,4,15.1,18.19,177,350,Automatic,2841

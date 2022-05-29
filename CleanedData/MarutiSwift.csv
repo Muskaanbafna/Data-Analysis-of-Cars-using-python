@@ -1,0 +1,34 @@
+Make,Model,Variant,Price,Displacement,Cylinders,Drivetrain,Fuel_System,Fuel_Tank_Capacity,Fuel_Type,Height,Length,Width,Doors,City_Mileage,ARAI_Certified_Mileage,Power,Torque,Type,Wheelbase
+Maruti Suzuki,Swift,Vxi,"6,19,000",1197,4,FWD (Front Wheel Drive),Injection,37,Petrol,1530,3840,1735,5,,20.4,83,113,Manual,2450
+Maruti Suzuki,Swift,Vxi Amt,"6,66,000",1197,4,FWD (Front Wheel Drive),Injection,37,Petrol,1530,3840,1735,5,,20.4,83,113,Automatic,2450
+Maruti Suzuki,Swift,Zxi,"6,78,000",1197,4,FWD (Front Wheel Drive),Injection,37,Petrol,1530,3840,1735,5,,20.4,83,113,Manual,2450
+Maruti Suzuki,Swift,Zxi Amt,"7,25,000",1197,4,FWD (Front Wheel Drive),Injection,37,Petrol,1530,3840,1735,5,,20.4,83,113,Automatic,2450
+Maruti Suzuki,Swift,Zxi Plus,"7,58,000",1197,4,FWD (Front Wheel Drive),Injection,37,Petrol,1530,3840,1735,5,,20.4,83,113,Manual,2450
+Maruti Suzuki,Swift,Ldi,"5,99,000",1248,4,FWD (Front Wheel Drive),Injection,37,Diesel,1530,3840,1735,5,,25.2,75,190,Manual,2430
+Maruti Suzuki,Swift,Vdi,"6,98,000",1248,4,FWD (Front Wheel Drive),Injection,37,Diesel,1530,3840,1735,5,,25.2,75,190,Manual,2450
+Maruti Suzuki,Swift,Vdi Amt,"7,45,000",1248,4,FWD (Front Wheel Drive),Injection,37,Diesel,1530,3840,1735,5,,25.2,75,190,Automatic,2450
+Maruti Suzuki,Swift,Zdi,"7,57,000",1248,4,FWD (Front Wheel Drive),Injection,37,Diesel,1530,3840,1735,5,,25.2,75,190,Manual,2450
+Maruti Suzuki,Swift,Zdi Amt,"8,04,000",1248,4,FWD (Front Wheel Drive),Injection,37,Diesel,1530,3840,1735,5,,25.2,75,190,Automatic,2450
+Maruti Suzuki,Swift,Zdi Plus,"8,38,000",1248,4,FWD (Front Wheel Drive),Injection,37,Diesel,1530,3840,1735,5,,25.2,75,190,Manual,2450
+Maruti Suzuki,Swift,Zxi Plus Amt,"8,02,000",1197,4,FWD (Front Wheel Drive),Injection,37,Petrol,1530,3840,1735,5,,20.4,83,113,Automatic,2450
+Maruti Suzuki,Swift,Zdi Plus Amt,"8,84,000",1248,4,FWD (Front Wheel Drive),Injection,37,Diesel,1530,3840,1735,5,,25.2,75,190,Automatic,2450
+Maruti Suzuki,Vitara Brezza,Ldi,"7,62,742",1248,4,FWD (Front Wheel Drive),Injection,48,Diesel,1640,3995,1790,5,20,24.3,90,200,Manual,2500
+Maruti Suzuki,Vitara Brezza,Vdi,"8,14,742",1248,4,FWD (Front Wheel Drive),Injection,48,Diesel,1640,3995,1790,5,20,24.3,90,200,Manual,2500
+Maruti Suzuki,Vitara Brezza,Zdi,"8,92,243",1248,4,FWD (Front Wheel Drive),Injection,48,Diesel,1640,3995,1790,5,20,24.3,90,200,Manual,2500
+Maruti Suzuki,Vitara Brezza,Zdi+,"9,87,743",1248,4,FWD (Front Wheel Drive),Injection,48,Diesel,1640,3995,1790,5,20,24.3,90,200,Manual,2500
+Maruti Suzuki,Vitara Brezza,Zdi+ Dual Tone,"10,03,552",1248,4,FWD (Front Wheel Drive),Injection,48,Diesel,1640,3995,1790,5,20,24.3,90,200,Manual,2500
+Maruti Suzuki,Vitara Brezza,Zdi+ Ags,"10,37,742",1248,4,FWD (Front Wheel Drive),Injection,48,Diesel,1640,3995,1790,5,20,24.3,90,200,Manual,2500
+Maruti Suzuki,Vitara Brezza,Vdi Ags,"8,64,742",1248,4,FWD (Front Wheel Drive),Injection,48,Diesel,1640,3995,1790,5,20,24.3,90,200,Automatic,2500
+Maruti Suzuki,Vitara Brezza,Zdi Ags,"9,42,243",1248,4,FWD (Front Wheel Drive),Injection,48,Diesel,1640,3995,1790,5,20,24.3,90,200,Automatic,2500
+Maruti Suzuki,Vitara Brezza,Zdi+ Dual Tone Ags,"10,59,742",1248,4,FWD (Front Wheel Drive),Injection,48,Diesel,1640,3995,1790,5,20,24.3,90,200,Automatic,2500
+Maruti Suzuki,Ertiga,Lxi,"7,59,000",1462,4,FWD (Front Wheel Drive),Injection,45,Petrol,1690,4395,1735,5,,19.34,103,138,Manual,2740
+Maruti Suzuki,Ertiga,Zxi,"9,17,000",1462,4,FWD (Front Wheel Drive),Injection,45,Petrol,1685,4265,1695,5,,19.34,104,138,Manual,2740
+Maruti Suzuki,Ertiga,Vxi At,"9,36,000",1462,4,FWD (Front Wheel Drive),Injection,45,Petrol,1690,4395,1735,5,,18.69,103,130,Automatic,2740
+Maruti Suzuki,Ertiga,Zxi Plus,"9,71,000",1462,4,FWD (Front Wheel Drive),Injection,45,Petrol,1690,4395,1735,5,,19.34,103,130,Manual,2740
+Maruti Suzuki,Ertiga,Vxi,"8,34,000",1462,4,FWD (Front Wheel Drive),Injection,45,Petrol,1685,4265,1695,5,,19.34,103,180,Manual,2740
+Maruti Suzuki,Ertiga,Zxi At,"10,13,000",1462,4,FWD (Front Wheel Drive),Injection,45,Petrol,1685,4265,1695,5,,18.69,104,138,Automatic,2740
+Maruti Suzuki,Ertiga,1.5L Vdi,"9,86,689",1498,4,FWD (Front Wheel Drive),Injection,45,Diesel,1690,4395,1735,5,,24.2,95,225,Manual,2740
+Maruti Suzuki,Ertiga,1.5L Zdi,"10,69,689",1498,4,FWD (Front Wheel Drive),Injection,45,Diesel,1690,4395,1735,5,,24.2,95,225,Manual,2740
+Maruti Suzuki,Ertiga,1.5L Zdi Plus,"11,20,689",1498,4,FWD (Front Wheel Drive),Injection,45,Diesel,1690,4395,1735,5,,24.2,95,225,Manual,2740
+Maruti Suzuki,Ertiga,Vxi Cng (Cng +,"8,87,689",1462,4,FWD (Front Wheel Drive),Injection,45,CNG ,1685,4265,1695,5,,19.34,103,180,Manual,2740
+Maruti Suzuki,Baleno Rs,Rs 1.0,"7,88,913",998,3,FWD (Front Wheel Drive),Injection,37,Petrol,1510,3995,1745,5,21.4,21.4,102,150,Manual,2520

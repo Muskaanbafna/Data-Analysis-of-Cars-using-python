@@ -1,0 +1,8 @@
+Make,Model,Variant,Price,Displacement,Cylinders,Drivetrain,Fuel_System,Fuel_Tank_Capacity,Fuel_Type,Height,Length,Width,Doors,City_Mileage,ARAI_Certified_Mileage,Power,Torque,Type,Wheelbase
+Fortuner,2.8 4X2 At,"32,05,000",2755,4,RWD (Rear Wheel Drive),Injection,80,Diesel,1835,4795,1855,5,12.55,12.9,177,450,Automatic,2745,
+Fortuner,2.8 4X2 Mt,"30,19,000",2755,4,RWD (Rear Wheel Drive),Injection,80,Diesel,1835,4795,1855,5,12.55,14.24,177,420,Manual,2745,
+Fortuner,2.8 4X4 Mt,"32,16,000",2755,4,4WD,Injection,80,Diesel,1835,4795,1855,5,12.55,14.24,177,420,Manual,2745,
+Fortuner,2.8 4X4 At,"33,95,000",2755,4,4WD,Injection,80,Diesel,1835,4795,1855,5,12.55,12.9,177,450,Automatic,2745,
+Fortuner,2.7 4X2 At,"29,77,000",2694,4,RWD (Rear Wheel Drive),Injection,80,Petrol,1835,4795,1855,5,7.8,10.26,166,245,Automatic,2745,
+Fortuner,2.7 4X2 Mt,"28,18,000",2694,4,RWD (Rear Wheel Drive),Injection,80,Petrol,1835,4795,1855,5,7.8,10.01,166,245,Manual,2745,
+Fortuner,Trd Celebratory Edition,"34,20,000",2755,4,RWD (Rear Wheel Drive),Injection,80,Diesel,1835,4795,1855,5,12.55,12.9,177,450,Automatic,2745,

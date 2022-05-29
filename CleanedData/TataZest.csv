@@ -1,0 +1,59 @@
+Make,Model,Variant,Price,Displacement,Cylinders,Drivetrain,Fuel_System,Fuel_Tank_Capacity,Fuel_Type,Height,Length,Width,Doors,City_Mileage,ARAI_Certified_Mileage,Power,Torque,Type,Wheelbase
+Tata,Altroz,Xe Petrol,"5,29,000",1199,3,FWD (Front Wheel Drive),Injection,37,Petrol,1523,3990,1755,5,,18,86,113,Manual,2501
+Tata,Altroz,Xm Petrol,"6,15,000",1199,3,FWD (Front Wheel Drive),Injection,37,Petrol,1523,3990,1755,5,,,86,113,Manual,2501
+Tata,Altroz,Xt Petrol,"6,84,000",1199,3,FWD (Front Wheel Drive),Injection,37,Petrol,1523,3990,1755,5,,,86,113,Manual,2501
+Tata,Altroz,Xz Petrol,"7,44,000",1199,3,FWD (Front Wheel Drive),Injection,37,Petrol,1523,3990,1755,5,,,86,113,Manual,2501
+Tata,Altroz,Xz (O) Petrol,"7,69,000",1199,3,FWD (Front Wheel Drive),Injection,37,Petrol,1523,3990,1755,5,,,86,113,Manual,2501
+Tata,Altroz,Xe Diesel,"6,99,000",1497,4,FWD (Front Wheel Drive),Injection,37,Diesel,1523,3990,1755,5,,25,90,200,Manual,2501
+Tata,Altroz,Xm Diesel,"7,75,000",1497,4,FWD (Front Wheel Drive),Injection,37,Diesel,1523,3990,1755,5,,,90,200,Manual,2501
+Tata,Altroz,Xt Diesel,"8,44,000",1497,4,FWD (Front Wheel Drive),Injection,37,Diesel,1523,3990,1755,5,,,90,200,Manual,2501
+Tata,Altroz,Xz Diesel,"9,04,000",1497,4,FWD (Front Wheel Drive),Injection,37,Diesel,1523,3990,1755,5,,,90,200,Manual,2501
+Tata,Altroz,Xz (O) Diesel,"9,29,000",1497,4,FWD (Front Wheel Drive),Injection,37,Diesel,1523,3990,1755,5,,,90,200,Manual,2501
+Tata,Tigor,Revotron Xe,"5,75,000",1199,3,FWD (Front Wheel Drive),Injection,35,Petrol,1537,3992,1677,4,24.12,23,86,113,Manual,2450
+Tata,Tigor,Revotron Xm,"6,10,000",1199,3,FWD (Front Wheel Drive),Injection,35,Petrol,1537,3992,1677,4,24.12,23,86,113,Manual,2450
+Tata,Tigor,Revotron Xz,"6,50,000",1199,3,FWD (Front Wheel Drive),Injection,35,Petrol,1537,3992,1677,4,24.12,23,86,113,Manual,2450
+Tata,Tigor,Revotron Xz Plus,"6,99,000",1199,3,FWD (Front Wheel Drive),Injection,35,Petrol,1537,3992,1677,4,24.12,23,86,113,Manual,2450
+Tata,Tigor,Revotron Xma,"6,60,000",1199,3,FWD (Front Wheel Drive),Injection,35,Petrol,1537,3992,1677,4,24.12,23,86,113,AMT,2450
+Tata,Tigor,Revotron Xza Plus,"7,49,000",1199,3,FWD (Front Wheel Drive),Injection,35,Petrol,1537,3992,1677,4,24.12,23,86,113,AMT,2450
+Tata,Zest,Xe Petrol,"5,82,287",1193,4,FWD (Front Wheel Drive),Injection,44,Petrol,1570,3995,1706,4,13.2,17.6,90,140,Manual,2470
+Tata,Zest,Xe Diesel,"7,02,946",1248,4,FWD (Front Wheel Drive),Injection,44,Diesel,1570,3995,1706,4,19.2,23,75,190,Manual,2470
+Tata,Zest,Xm Petrol,"6,53,926",1193,4,FWD (Front Wheel Drive),Injection,44,Petrol,1570,3995,1706,4,13.2,17.6,90,140,Manual,2470
+Tata,Zest,Xms Petrol,"6,72,641",1193,4,FWD (Front Wheel Drive),Injection,44,Petrol,1570,3995,1706,4,13.2,17.6,90,140,Manual,2470
+Tata,Zest,Xt Petrol,"7,32,475",1193,4,FWD (Front Wheel Drive),Injection,44,Petrol,1570,3995,1706,4,13.2,17.6,90,140,Manual,2470
+Tata,Zest,Xm Diesel,"7,67,317",1248,4,FWD (Front Wheel Drive),Injection,44,Diesel,1570,3995,1706,4,19.2,23,75,190,Manual,2470
+Tata,Zest,Xms Diesel,"7,93,898",1248,4,FWD (Front Wheel Drive),Injection,44,Diesel,1570,3995,1706,5,19.2,20.65,75,190,Manual,2470
+Tata,Zest,Xt Diesel,"8,55,362",1248,4,FWD (Front Wheel Drive),Injection,44,Diesel,1570,3995,1706,4,19.2,23,90,200,Manual,2470
+Tata,Zest,Xma Diesel,"8,36,320",1248,4,FWD (Front Wheel Drive),Injection,44,Diesel,1570,3995,1706,4,19.2,23,75,190,AMT,2470
+Tata,Zest,Xta Diesel,"9,89,000",1248,4,FWD (Front Wheel Drive),Injection,44,Diesel,1570,3995,1706,4,19.2,23,90,200,Automatic,2470
+Tata,Zest,Zest Premio Edition,"7,88,797",1248,4,FWD (Front Wheel Drive),Injection,44,Diesel,1570,3995,1706,5,19.2,20.65,75,190,Manual,2470
+Tata,Hexa,Xm Plus 4X2,"16,39,374",2179,4,RWD (Rear Wheel Drive),Injection,60,Diesel,1791,4788,1903,5,14,17.6,156,400,Manual,2850
+Tata,Hexa,Xt 4X4,"19,29,417",2179,,RWD (Rear Wheel Drive),Injection,60,Diesel,1791,4788,1903,5,14,17.6,156,320,Manual,2850
+Tata,Hexa,Xta 4X2,"19,12,593",2179,4,AWD (All Wheel Drive),Injection,60,Diesel,1791,4788,1903,5,14,17.6,156,400,Automatic,2850
+Tata,Hexa,Xt 4X2,"17,96,458",2179,4,RWD (Rear Wheel Drive),Injection,,Diesel,1791,4788,1903,5,14,17.6,156,400,Manual,2850
+Tata,Hexa,Xe 4X2,"13,71,864",2179,4,RWD (Rear Wheel Drive),Injection,60,Diesel,1791,4788,1903,5,14,17.6,150,320,Manual,2850
+Tata,Hexa,Xm 4X2,"15,31,377",2179,4,RWD (Rear Wheel Drive),Injection,60,Diesel,1791,4788,1903,5,14,17.6,156,400,Manual,2850
+Tata,Hexa,Xma 4X2,"16,55,587",2179,4,RWD (Rear Wheel Drive),Injection,,Diesel,1791,4788,1903,5,14,17.6,156,400,Automatic,2850
+Tata,Nexon,Xe,"6,95,000",1198,3,,Injection,44,Petrol,1607,3994,1811,5,,17.6,110,170,Manual,2498
+Tata,Nexon,Xm,"7,70,000",1198,3,FWD (Front Wheel Drive),Injection,44,Petrol,1607,3994,1811,5,,17.6,110,170,Manual,2498
+Tata,Nexon,Xz,"8,70,000",1198,3,FWD (Front Wheel Drive),Injection,44,Petrol,1607,3994,1811,5,,17.6,110,170,Manual,2498
+Tata,Nexon,Xz Plus,"9,50,000",1198,3,FWD (Front Wheel Drive),Injection,44,Petrol,1607,3994,1811,5,,17.6,110,170,Manual,2498
+Tata,Nexon,Xz Plus Dual Tone,"9,70,000",1198,3,FWD (Front Wheel Drive),Injection,44,Petrol,1607,3994,1811,5,,17.6,110,170,Manual,2498
+Tata,Nexon,Xz Plus (O),"10,40,000",1198,3,FWD (Front Wheel Drive),Injection,44,Petrol,1607,3994,1811,5,,17.6,110,170,Manual,2498
+Tata,Nexon,Xz Plus (O) Dual Tone,"10,60,000",1198,3,FWD (Front Wheel Drive),Injection,44,Petrol,1607,3994,1811,5,,17.6,110,170,Automatic,2498
+Tata,Nexon,Xma,"8,30,000",1198,3,FWD (Front Wheel Drive),Injection,44,Petrol,1607,3994,1811,5,,17.6,110,170,Automatic,2498
+Tata,Nexon,Xza Plus,"10,10,000",1198,3,FWD (Front Wheel Drive),Injection,44,Petrol,1607,3994,1811,5,,17.6,110,170,Automatic,2498
+Tata,Nexon,Xza Plus Dual Tone,"10,30,000",1198,3,FWD (Front Wheel Drive),Injection,44,Petrol,1607,3994,1811,5,,17.6,110,170,Automatic,2498
+Tata,Nexon,Xza Plus (O),"11,00,000",1198,3,FWD (Front Wheel Drive),Injection,44,Petrol,1607,3994,1811,5,,17.6,110,170,Automatic,2498
+Tata,Nexon,Xza Plus (O) Dual Tone,"11,20,000",1198,3,FWD (Front Wheel Drive),Injection,44,Petrol,1607,3994,1811,5,,17.6,110,170,Automatic,2498
+Tata,Nexon,Xe Diesel,"8,45,000",1497,4,FWD (Front Wheel Drive),Injection,44,Diesel,1607,3994,1811,5,,23.97,110,260,Manual,2498
+Tata,Nexon,Xm Diesel,"9,20,000",1497,4,FWD (Front Wheel Drive),Injection,44,Diesel,1607,3994,1811,5,,23.97,110,260,Manual,2498
+Tata,Nexon,Xz Diesel,"10,20,000",1497,4,FWD (Front Wheel Drive),Injection,44,Diesel,1607,3994,1811,5,,23.97,110,260,Manual,2498
+Tata,Nexon,Xz Plus Diesel,"11,00,000",1497,4,FWD (Front Wheel Drive),Injection,44,Diesel,1607,3994,1811,5,,23.97,110,260,Manual,2498
+Tata,Nexon,Xz Plus Diesel Dual Tone,"11,20,000",1497,4,FWD (Front Wheel Drive),Injection,44,Diesel,1607,3994,1811,5,,23.97,110,260,Manual,2498
+Tata,Nexon,Xz Plus (O) Diesel,"11,90,000",1497,4,FWD (Front Wheel Drive),Injection,44,Diesel,1607,3994,1811,5,,23.97,110,260,Manual,2498
+Tata,Nexon,Xz Plus (O) Diesel Dual Tone,"12,10,000",1497,4,FWD (Front Wheel Drive),Injection,44,Diesel,1607,3994,1811,5,,23.97,110,260,Manual,2498
+Tata,Nexon,Xma Diesel,"9,80,000",1497,4,FWD (Front Wheel Drive),Injection,44,Diesel,1607,3994,1811,5,,23.97,110,260,Automatic,2498
+Tata,Nexon,Xza Plus Diesel,"11,60,000",1497,4,FWD (Front Wheel Drive),Injection,44,Diesel,1607,3994,1811,5,,23.97,110,260,Automatic,2498
+Tata,Nexon,Xza Plus Diesel Dual Tone,"11,80,000",1497,4,FWD (Front Wheel Drive),Injection,44,Diesel,1607,3994,1811,5,,23.97,110,260,Automatic,2498
+Tata,Nexon,Xza Plus (O) Diesel,"12,50,000",1497,4,FWD (Front Wheel Drive),Injection,44,Diesel,1607,3994,1811,5,,23.97,110,260,Automatic,2498
+Tata,Nexon,Xza Plus (O) Diesel Dual Tone,"12,70,000",1497,4,FWD (Front Wheel Drive),Injection,44,Diesel,1607,3994,1811,5,,23.97,110,260,Automatic,2498

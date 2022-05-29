@@ -1,0 +1,15 @@
+Make,Model,Variant,Price,Displacement,Cylinders,Drivetrain,Fuel_System,Fuel_Tank_Capacity,Fuel_Type,Height,Length,Width,Doors,City_Mileage,ARAI_Certified_Mileage,Power,Torque,Type,Wheelbase
+Toyota,Yaris,J,"9,40,000",1496,4,FWD (Front Wheel Drive),Injection,42,Petrol,1495,4425,1730,4,,17.1,107,140,Manual,2550
+Toyota,Yaris,G,"10,55,000",1496,4,FWD (Front Wheel Drive),Injection,42,Petrol,1495,4425,1730,4,,17.1,107,140,Manual,2550
+Toyota,Yaris,V,"11,74,000",1498,4,FWD (Front Wheel Drive),Injection,42,Petrol,1495,4425,1730,4,,17.1,107,140,Manual,2550
+Toyota,Yaris,Vx Cvt,"14,18,000",1496,4,FWD (Front Wheel Drive),Injection,42,Petrol,1495,4425,1730,4,,17.8,107,140,Automatic,2550
+Toyota,Yaris,G Cvt,"11,75,000",1496,4,FWD (Front Wheel Drive),Injection,42,Petrol,1495,4425,1730,4,,17.8,107,140,Automatic,2550
+Toyota,Yaris,J Cvt,"10,10,000",1496,4,FWD (Front Wheel Drive),Injection,42,Petrol,1495,4425,1730,4,,17.8,107,140,Automatic,2550
+Toyota,Yaris,V Cvt,"12,94,000",1496,4,FWD (Front Wheel Drive),Injection,42,Petrol,1495,4425,1730,4,,17.8,107,140,Automatic,2550
+Toyota,Yaris,Vx,"12,96,000",1496,4,FWD (Front Wheel Drive),Injection,42,Petrol,1495,4425,1730,4,,17.1,107,140,Manual,2550
+Toyota,Yaris,V (O),"11,97,000",1498,4,FWD (Front Wheel Drive),Injection,42,Petrol,1495,4425,1730,4,,17.1,107,140,Manual,2550
+Toyota,Yaris,J (O),"8,76,000",1496,4,FWD (Front Wheel Drive),Injection,42,Petrol,1495,4425,1730,4,,17.1,107,140,Manual,2550
+Toyota,Yaris,G (O),"9,74,000",1496,4,FWD (Front Wheel Drive),Injection,42,Petrol,1495,4425,1730,4,,17.1,107,140,Manual,2550
+Toyota,Yaris,J (O) Cvt,"9,35,000",1496,4,FWD (Front Wheel Drive),Injection,42,Petrol,1495,4425,1730,4,,17.1,107,140,Automatic,2550
+Toyota,Yaris,G (O) Cvt,"10,83,000",1496,4,FWD (Front Wheel Drive),Injection,42,Petrol,1495,4425,1730,4,,17.1,107,140,Automatic,2550
+Toyota,Yaris,V (O) Cvt,"13,17,000",1498,4,FWD (Front Wheel Drive),Injection,42,Petrol,1495,4425,1730,4,,17.1,107,140,Automatic,2550

@@ -1,0 +1,18 @@
+Make,Model,Variant,Price,Displacement,Cylinders,Drivetrain,Fuel_System,Fuel_Tank_Capacity,Fuel_Type,Height,Length,Width,Doors,City_Mileage,ARAI_Certified_Mileage,Power,Torque,Type,Wheelbase
+Mahindra,Bolero Power Plus,Zlx,"8,86,398",1493,4,FWD (Front Wheel Drive),Injection,60,Diesel,1880,3995,1745,5,12.4,16.5,70,195,Manual,2680
+Mahindra,Bolero Power Plus,Slx,"8,51,302",1493,4,FWD (Front Wheel Drive),Injection,60,Diesel,1880,3995,1745,5,12.4,16.5,70,195,Manual,2680
+Mahindra,Bolero Power Plus,Sle,"7,85,656",1493,4,FWD (Front Wheel Drive),Injection,60,Diesel,1880,3995,1745,5,12.4,16.5,70,195,Manual,2680
+Mahindra,Bolero Power Plus,Lx,"7,49,192",1493,4,RWD (Rear Wheel Drive),Injection,60,Diesel,1880,3995,1745,5,12.4,16.5,70,195,Manual,2680
+Mahindra,Bolero Power Plus,Plus Ac Bs4 Ps,"8,59,497",2523,4,FWD (Front Wheel Drive),Injection,60,Diesel,1977,4494,1745,5,9.4,15.96,63,,Manual,2794
+Mahindra,Bolero Power Plus,Plus Non Ac Bs4 Ps,"8,19,117",2523,4,FWD (Front Wheel Drive),Injection,60,Diesel,1977,4440,1660,5,12.4,15.96,63.9,195,Manual,2794
+Mahindra,Xuv300,1.2 W4,"8,30,127",1197,,RWD (Rear Wheel Drive),Injection,42,Petrol,1617,3995,1821,5,,17,109,200,Manual,2600
+Mahindra,Xuv300,1.2 W6,"9,15,128",1197,,RWD (Rear Wheel Drive),Injection,42,Petrol,1617,3995,1821,5,,17,109,200,Manual,2600
+Mahindra,Xuv300,1.2 W8,"10,60,129",1197,,RWD (Rear Wheel Drive),Injection,42,Petrol,1617,3995,1821,5,,17,109,200,Manual,2600
+Mahindra,Xuv300,1.2 W8(O),"11,84,129",1197,,RWD (Rear Wheel Drive),Injection,42,Petrol,1617,3995,1821,5,,17,109,200,Manual,2600
+Mahindra,Xuv300,1.5 W4,"8,69,131",1497,,RWD (Rear Wheel Drive),Injection,42,Diesel,1617,3995,1821,5,,20,115,300,Manual,2600
+Mahindra,Xuv300,1.5 W6,"9,50,131",1497,,RWD (Rear Wheel Drive),Injection,42,Diesel,1617,3995,1821,5,,20,115,300,Manual,2600
+Mahindra,Xuv300,1.5 W8,"10,95,129",1497,,RWD (Rear Wheel Drive),Injection,42,Diesel,1617,3995,1821,5,,20,115,300,Manual,2600
+Mahindra,Xuv300,1.5 W8 (O),"12,14,130",1497,,RWD (Rear Wheel Drive),Injection,42,Diesel,1617,3995,1821,5,,20,115,300,Manual,2600
+Mahindra,Xuv300,1.5 W8 Amt,"11,49,800",1497,,RWD (Rear Wheel Drive),Injection,42,Diesel,1617,3995,1821,5,,20,115,300,Automatic,2600
+Mahindra,Xuv300,1.5 W8 (O) Amt,"12,69,131",1497,,RWD (Rear Wheel Drive),Injection,42,Diesel,1617,3995,1821,5,,20,115,300,Automatic,2600
+Mahindra,Xuv300,1.5 W6 Amt,"9,99,000",1497,4,RWD (Rear Wheel Drive),Injection,42,Diesel,1617,3995,1821,5,,20,115,300,AMT,2600

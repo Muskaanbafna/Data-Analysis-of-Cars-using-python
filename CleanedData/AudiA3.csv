@@ -1,0 +1,5 @@
+Make,Model,Variant,Price,Displacement,Cylinders,Drivetrain,Fuel_System,Fuel_Tank_Capacity,Fuel_Type,Height,Length,Width,Doors,City_Mileage,ARAI_Certified_Mileage,Power,Torque,Type,Wheelbase
+Audi,A3,35 Tdi Premium Plus,"30,21,200",1968,4,FWD (Front Wheel Drive),Injection,50,Diesel,1416,4456,1796,4,18,20.38,143,320,Automatic,2637
+Audi,A3,35 Tdi Technology,"32,21,200",1968,4,FWD (Front Wheel Drive),Injection,50,Diesel,1416,4456,1796,4,18,20.38,143,320,Automatic,2637
+Audi,A3,35 Tfsi Premium Plus,"29,20,750",1395,4,FWD (Front Wheel Drive),Injection,50,Petrol,1416,4456,1796,4,12.4,19.2,150,250,Automatic,2637
+Audi,A3,35 Tfsi Technology,"31,20,750",1395,4,FWD (Front Wheel Drive),Injection,50,Petrol,1416,4456,1796,4,12.4,19.2,150,250,Automatic,2637

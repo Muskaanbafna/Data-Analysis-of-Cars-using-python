@@ -1,0 +1,11 @@
+Make,Model,Variant,Price,Displacement,Cylinders,Drivetrain,Fuel_System,Fuel_Tank_Capacity,Fuel_Type,Height,Length,Width,Doors,City_Mileage,ARAI_Certified_Mileage,Power,Torque,Type,Wheelbase
+Maruti Suzuki,S-Presso,Std,"3,70,500",998,3,FWD (Front Wheel Drive),Injection,27,Petrol,1549,3565,1520,5,,21.4,67,90,Manual,2380
+Maruti Suzuki,S-Presso,Std (O),"3,76,500",998,3,FWD (Front Wheel Drive),Injection,27,Petrol,1549,3565,1520,5,,21.4,67,90,Manual,2380
+Maruti Suzuki,S-Presso,Lxi,"4,09,000",998,3,FWD (Front Wheel Drive),Injection,27,Petrol,1549,3565,1520,5,,21.4,67,90,Manual,2380
+Maruti Suzuki,S-Presso,Lxi (O),"4,15,000",998,3,FWD (Front Wheel Drive),Injection,27,Petrol,1549,3565,1520,5,,21.4,67,90,Manual,2380
+Maruti Suzuki,S-Presso,Vxi,"4,32,500",998,3,FWD (Front Wheel Drive),Injection,27,Petrol,1549,3565,1520,5,,21.7,67,90,Manual,2380
+Maruti Suzuki,S-Presso,Vxi (O),"4,38,500",998,3,FWD (Front Wheel Drive),Injection,27,Petrol,1549,3565,1520,5,,21.7,67,90,Manual,2380
+Maruti Suzuki,S-Presso,Vxi Ags,"4,75,500",998,3,FWD (Front Wheel Drive),Injection,27,Petrol,1549,3565,1520,5,,21.7,67,90,AMT,2380
+Maruti Suzuki,S-Presso,Vxi+,"4,56,000",998,3,FWD (Front Wheel Drive),Injection,27,Petrol,1549,3565,1520,5,,21.7,67,90,Manual,2380
+Maruti Suzuki,S-Presso,Vxi (O) Ags,"4,81,500",998,3,FWD (Front Wheel Drive),Injection,27,Petrol,1549,3565,1520,5,,21.7,67,90,AMT,2380
+Maruti Suzuki,S-Presso,Vxi+ Ags,"4,99,000",998,3,FWD (Front Wheel Drive),Injection,27,Petrol,1549,3565,1520,5,,21.7,67,90,AMT,2380

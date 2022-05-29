@@ -1,0 +1,9 @@
+Make,Model,Variant,Price,Displacement,Cylinders,Drivetrain,Fuel_System,Fuel_Tank_Capacity,Fuel_Type,Height,Length,Width,Doors,City_Mileage,ARAI_Certified_Mileage,Power,Torque,Type,Wheelbase
+Jaguar,F-Type,5.0 Convertible R,"2,36,59,454",5000,,,,,Petrol,1308,4470,1923,4,12.05,,495,625,Automatic,2622
+Jaguar,F-Type,5.0 Coupe R,"2,21,55,390",5000,6,RWD (Rear Wheel Drive),Injection,72,Petrol,1308,4470,2042,2,7.81,14.3,550,680,Automatic,2622
+Jaguar,F-Type,Svr Coupe,"2,65,01,830",5000,8,AWD (All Wheel Drive),Injection,70,Petrol,1311,4475,2042,2,,12.05,567,700,Automatic,2622
+Jaguar,F-Type,Svr Convertible,"2,80,04,965",5000,8,AWD (All Wheel Drive),Injection,70,Petrol,1311,4475,2042,2,,12.05,567,700,Automatic,2622
+Jaguar,F-Type,2.0L Coupe,"90,92,578",1997,6,RWD (Rear Wheel Drive),Injection,63,Petrol,1311,4482,1923,2,,15.3,297,400,Automatic,2622
+Jaguar,F-Type,2.0L Convertible,"1,01,44,987",1997,6,RWD (Rear Wheel Drive),Injection,63,Petrol,1308,4482,1923,2,,,297,400,Automatic,2622
+Jaguar,F-Type,2.0 Convertible R Dynamic,"1,04,19,200",1997,8,RWD (Rear Wheel Drive),Injection,63,Petrol,1308,4482,1923,2,,10.7,297,400,Automatic,2622
+Jaguar,F-Type,2.0 Coupe R Dynamic,"93,66,433",1997,4,RWD (Rear Wheel Drive),Injection,63,Petrol,1311,4482,1923,2,,10.85,297,400,Automatic,2622

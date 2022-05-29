@@ -1,0 +1,23 @@
+Make,Model,Variant,Price,Displacement,Cylinders,Drivetrain,Fuel_System,Fuel_Tank_Capacity,Fuel_Type,Height,Length,Width,Doors,City_Mileage,ARAI_Certified_Mileage,Power,Torque,Type,Wheelbase
+Mahindra,Kuv100 Nxt,K2 6Str,"4,88,194",1198,3,FWD (Front Wheel Drive),Injection,35,Petrol,1655,3700,1735,5,15.5,18.15,82,115,Manual,2385
+Mahindra,Kuv100 Nxt,K2+ 6Str,"5,32,184",1198,3,FWD (Front Wheel Drive),Injection,35,Petrol,1655,3700,1735,5,15.5,18.15,82,115,Manual,2385
+Mahindra,Kuv100 Nxt,K2 D 6Str,"5,90,798",1198,3,FWD (Front Wheel Drive),Injection,35,Diesel,1655,3700,1735,5,22.25,25.32,77,190,Manual,2385
+Mahindra,Kuv100 Nxt,K2+ D 6Str,"6,19,243",1198,3,FWD (Front Wheel Drive),Injection,35,Diesel,1655,3700,1735,5,22.25,25.32,77,190,Manual,2385
+Mahindra,Kuv100 Nxt,K4+ D 6Str,"6,67,273",1198,3,FWD (Front Wheel Drive),Injection,35,Diesel,1655,3700,1735,5,22.25,25.32,77,190,Manual,2385
+Mahindra,Kuv100 Nxt,K4+ 6Str,"5,79,645",1198,3,FWD (Front Wheel Drive),Injection,35,Petrol,1655,3700,1735,5,15.5,18.15,82,115,Manual,2385
+Mahindra,Kuv100 Nxt,K6+ 6Str,"6,31,144",1198,3,FWD (Front Wheel Drive),Injection,35,Petrol,1655,3700,1735,5,15.5,18.15,82,115,Manual,2385
+Mahindra,Kuv100 Nxt,K6+ D 6Str,"7,54,548",1198,3,FWD (Front Wheel Drive),Injection,35,Diesel,1655,3700,1735,5,22.25,25.32,77,190,Manual,2385
+Mahindra,Kuv100 Nxt,K8 6Str,"6,93,550",1198,3,FWD (Front Wheel Drive),Injection,35,Petrol,1655,3700,1735,5,15.5,18.15,82,115,Manual,2385
+Mahindra,Kuv100 Nxt,K8 D 6Str,"7,87,304",1198,3,FWD (Front Wheel Drive),Injection,35,Diesel,1655,3700,1735,5,22.25,25.32,77,190,Manual,2385
+Mahindra,Kuv100 Nxt,K8 6 Str Dual Tone,"7,01,045",1198,3,FWD (Front Wheel Drive),Injection,35,Petrol,1655,3700,1735,5,15.5,18.15,82,115,Manual,2385
+Mahindra,Kuv100 Nxt,K8 D 6 Str Dual Tone,"7,94,800",1198,3,FWD (Front Wheel Drive),Injection,35,Diesel,1655,3700,1735,5,22.25,25.32,77,190,Manual,2385
+Mahindra,Kuv100 Nxt,K4+ 5Str,"5,73,250",1198,3,FWD (Front Wheel Drive),Injection,35,Petrol,1655,3700,1735,5,15.5,18.15,82,115,Manual,2385
+Mahindra,Kuv100 Nxt,K6+ 5Str,"6,31,146",1198,3,FWD (Front Wheel Drive),Injection,35,Petrol,1655,3700,1735,5,15.5,18.15,82,115,Manual,2385
+Mahindra,Kuv100 Nxt,K8 5Str,"6,87,175",1198,3,FWD (Front Wheel Drive),Injection,35,Petrol,1655,3700,1735,5,15.5,18.15,82,115,Manual,2385
+Mahindra,Kuv100 Nxt,K4+ D 5Str,"6,60,832",1198,3,FWD (Front Wheel Drive),Injection,35,Diesel,1655,3700,1735,5,22.25,25.32,77,190,Manual,2385
+Mahindra,Kuv100 Nxt,K6+ D 5Str,"7,48,128",1198,3,FWD (Front Wheel Drive),Injection,35,Diesel,1655,3700,1735,5,22.25,25.32,77,190,Manual,2385
+Mahindra,Kuv100 Nxt,K8 D 5Str,"7,80,884",1198,3,FWD (Front Wheel Drive),Injection,35,Diesel,1655,3700,1735,5,22.25,25.32,77,190,Manual,2385
+Mahindra,Kuv100 Nxt,K2 D 5Str Taxi,"5,50,155",1198,3,FWD (Front Wheel Drive),Injection,35,Diesel,1655,3700,1735,5,22.25,25.32,77,190,Manual,2385
+Mahindra,Kuv100 Nxt,K2 D 6Str Taxi,"5,59,741",1198,3,FWD (Front Wheel Drive),Injection,35,Diesel,1655,3700,1735,5,22.25,25.32,77,190,Manual,2385
+Mahindra,Kuv100 Nxt,K2 5Str Cng Taxi,"5,24,312",1198,3,FWD (Front Wheel Drive),Injection,35,Petrol,1655,3700,1735,5,15.5,18.15,82,115,Manual,2385
+Mahindra,Kuv100 Nxt,K2 6Str Cng Taxi,"5,42,913",1198,3,FWD (Front Wheel Drive),Injection,35,Petrol,1655,3700,1735,5,15.5,18.15,82,115,Manual,2385

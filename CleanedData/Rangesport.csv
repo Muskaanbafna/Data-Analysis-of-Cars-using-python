@@ -1,0 +1,11 @@
+Make,Model,Variant,Price,Displacement,Cylinders,Drivetrain,Fuel_System,Fuel_Tank_Capacity,Fuel_Type,Height,Length,Width,Doors,City_Mileage,ARAI_Certified_Mileage,Power,Torque,Type,Wheelbase
+Range Sport,5.0L V8 Svr Petrol,"2,05,17,853",4999,8,4WD,,,Petrol,1803,4882,2220,5,,,567,700,Automatic,2923,
+Range Sport,2.0L S Petrol,"86,70,586",1997,8,4WD,Injection,105,Petrol,1803,4879,2220,5,,,296,400,Automatic,2923,
+Range Sport,2.0L Se Petrol,"94,48,181",1997,8,4WD,Injection,105,Petrol,1803,4879,2220,5,,,296,400,Automatic,2923,
+Range Sport,3.0L V6 Se Petrol,"1,14,76,911",2995,6,4WD,Injection,85,Petrol,1803,4879,2220,5,,,335,450,Automatic,2923,
+Range Sport,2.0L Hse Petrol,"1,56,00,000",1997,8,4WD,Injection,105,Petrol,1803,4879,2220,5,,,296,400,Automatic,2923,
+Range Sport,3.0L V6 Hse Petrol,"1,32,28,725",2995,6,4WD,Injection,85,Petrol,1803,4879,2220,5,,,335,450,Automatic,2923,
+Range Sport,5.0L V8 Autobiography Dynamic Petrol,"1,79,40,227",4999,8,4WD,,,Petrol,1803,4879,2220,5,,,518,625,Automatic,2923,
+Range Sport,3.0L Tdv6 S Diesel,"1,03,73,732",2993,6,FWD (Front Wheel Drive),Injection,80,Diesel,1803,4879,2220,5,,,254,600,Automatic,2923,
+Range Sport,3.0L Tdv6 Se Diesel,"1,19,13,021",2993,6,FWD (Front Wheel Drive),Injection,80,Diesel,1803,4879,2220,5,,,254,600,Automatic,2923,
+Range Sport,4.4L Sdv8 Hse Diesel,"1,49,08,985",4367,8,4WD,Injection,105,Diesel,1803,4879,2220,5,5.9,11.5,335,740,Automatic,2923,

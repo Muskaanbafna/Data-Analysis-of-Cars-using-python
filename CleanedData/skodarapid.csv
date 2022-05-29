@@ -1,0 +1,15 @@
+Make,Model,Variant,Price,Displacement,Cylinders,Drivetrain,Fuel_System,Fuel_Tank_Capacity,Fuel_Type,Height,Length,Width,Doors,City_Mileage,ARAI_Certified_Mileage,Power,Torque,Type,Wheelbase
+Skoda,Rapid,1.6 Mpi Ambition,"9,98,599",1598,4,FWD (Front Wheel Drive),Injection,55,Petrol,1466,4413,1699,4,12,15.41,105,153,Manual,2552
+Skoda,Rapid,1.5 Tdi Cr Active,"10,06,139",1498,4,FWD (Front Wheel Drive),Injection,55,Diesel,1466,4413,1699,4,14.5,21.13,110,250,Manual,2552
+Skoda,Rapid,1.6 Mpi Active,"8,81,916",1598,4,FWD (Front Wheel Drive),Injection,55,Petrol,1466,4413,1699,4,12,15.41,105,153,Manual,2552
+Skoda,Rapid,1.5 Tdi Cr Ambition,"11,29,599",1498,4,FWD (Front Wheel Drive),Injection,55,Diesel,1466,4413,1699,4,14.5,21.13,110,250,Manual,2552
+Skoda,Rapid,1.5 Tdi Cr Ambition At,"12,49,599",1498,4,FWD (Front Wheel Drive),Injection,55,Diesel,1466,4413,1699,4,14.5,21.72,110,250,Automatic,2552
+Skoda,Rapid,1.6 Mpi Style At,"12,43,599",1598,4,FWD (Front Wheel Drive),Injection,55,Petrol,1466,4413,1699,4,12,14.84,105,153,Automatic,2552
+Skoda,Rapid,1.5 Tdi Cr Style At,"13,99,599",1498,4,FWD (Front Wheel Drive),Injection,55,Diesel,1466,4413,1699,4,18,21.72,110,250,Automatic,2552
+Skoda,Rapid,1.5 Tdi Cr Style,"12,73,599",1498,4,FWD (Front Wheel Drive),Injection,55,Diesel,1466,4413,1699,4,18,21.13,110,250,Manual,2552
+Skoda,Rapid,1.6 Mpi Style,"11,15,599",1598,4,FWD (Front Wheel Drive),Injection,55,Petrol,1466,4413,1699,4,12,15.41,105,153,Manual,2552
+Skoda,Rapid,1.6 Mpi Ambition At,"9,99,599",1598,4,FWD (Front Wheel Drive),Injection,55,Petrol,1466,4413,1699,4,12,14.84,105,153,Automatic,2552
+Skoda,Rapid,Onyx Mt Petrol,"9,75,599",1598,4,FWD (Front Wheel Drive),Injection,55,Petrol,1466,4413,1699,4,12,15.41,105,153,Manual,2552
+Skoda,Rapid,Onyx At Petrol,"10,99,599",1598,4,FWD (Front Wheel Drive),Injection,55,Petrol,1466,4413,1699,4,12,14.84,105,153,Automatic,2552
+Skoda,Rapid,Onyx Mt Diesel,"11,58,599",1498,4,FWD (Front Wheel Drive),Injection,55,Diesel,1466,4413,1699,4,18,21.13,110,250,Manual,2552
+Skoda,Rapid,Onyx At Diesel,"12,73,599",1498,4,FWD (Front Wheel Drive),Injection,55,Diesel,1466,4413,1699,4,18,21.72,110,250,Automatic,2552

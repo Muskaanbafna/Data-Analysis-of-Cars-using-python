@@ -1,0 +1,5 @@
+Make,Model,Variant,Price,Displacement,Cylinders,Drivetrain,Fuel_System,Fuel_Tank_Capacity,Fuel_Type,Height,Length,Width,Doors,City_Mileage,ARAI_Certified_Mileage,Power,Torque,Type,Wheelbase
+Honda,Cr-V,2Wd Petrol Cvt,"28,27,001",1997,4,FWD (Front Wheel Drive),Injection,57,Petrol,1679,4592,1855,5,,14.4,154,189,Automatic,2660
+Honda,Cr-V,2Wd Diesel At,"30,67,001",1597,,FWD (Front Wheel Drive),Injection,57,Diesel,1679,4592,1855,5,,19.5,120,300,Automatic,2660
+Honda,Cr-V,Awd Diesel At,"32,77,001",1597,,AWD (All Wheel Drive),Injection,57,Diesel,1689,4592,1855,5,,18.3,120,300,Automatic,2660
+,,,,,,,,,,,,,,,,,,,

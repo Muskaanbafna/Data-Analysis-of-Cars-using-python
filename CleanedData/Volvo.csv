@@ -1,0 +1,4 @@
+Make,Model,Variant,Price,Displacement,Cylinders,Drivetrain,Fuel_System,Fuel_Tank_Capacity,Fuel_Type,Height,Length,Width,Doors,City_Mileage,ARAI_Certified_Mileage,Power,Torque,Type,Wheelbase
+Volvo,Xc40,D4 Momentum,"39,90,000",1969,5,AWD (All Wheel Drive),Injection,,Diesel,1652,4425,1863,5,,,190,400,Automatic,2702
+Volvo,Xc40,D4 Inscription,"43,90,000",1969,5,AWD (All Wheel Drive),Injection,,Diesel,1652,4425,1863,5,,,190,400,Automatic,2702
+Volvo,Xc40,T4 R-Design,"39,90,000",1969,5,AWD (All Wheel Drive),Injection,54,Petrol,1652,4425,1863,5,,,190,300,Automatic,2702

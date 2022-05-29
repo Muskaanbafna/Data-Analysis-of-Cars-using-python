@@ -1,0 +1,37 @@
+Make,Model,Variant,Price,Displacement,Cylinders,Drivetrain,Fuel_System,Fuel_Tank_Capacity,Fuel_Type,Height,Length,Width,Doors,City_Mileage,ARAI_Certified_Mileage,Power,Torque,Type,Wheelbase
+Honda,Amaze,S Cvt Petrol,"7,63,000",1199,4,FWD (Front Wheel Drive),Injection,35,Petrol,1501,3995,1695,4,,19,90,110,Automatic,2470
+Honda,Amaze,E Mt Diesel,"7,05,000",1498,4,FWD (Front Wheel Drive),Injection,35,Diesel,1498,3995,1695,4,,27.4,100,200,Manual,2470
+Honda,Amaze,E Mt Petrol,"5,93,000",1199,4,FWD (Front Wheel Drive),Injection,35,Petrol,1498,3995,1695,4,,19.5,90,110,Manual,2470
+Honda,Amaze,S Cvt Diesel,"8,65,000",1498,4,FWD (Front Wheel Drive),Injection,35,Diesel,1501,3995,1695,4,,23.8,80,160,Automatic,2470
+Honda,Amaze,V Cvt Petrol,"8,23,000",1199,4,FWD (Front Wheel Drive),Injection,35,Petrol,1501,3995,1695,4,,19,90,110,Automatic,2470
+Honda,Amaze,V Cvt Diesel,"9,25,000",1498,4,FWD (Front Wheel Drive),Injection,35,Diesel,1501,3995,1695,4,,23.8,80,160,Automatic,2470
+Honda,Amaze,S Mt Diesel,"7,85,000",1498,4,FWD (Front Wheel Drive),Injection,35,Diesel,1501,3995,1695,4,,27.4,100,200,Manual,2470
+Honda,Amaze,Vx Mt Diesel,"8,93,000",1498,4,FWD (Front Wheel Drive),Injection,35,Diesel,1501,3995,1695,4,,27.4,100,200,Manual,2470
+Honda,Amaze,V Mt Diesel,"8,45,000",1498,4,FWD (Front Wheel Drive),Injection,35,Diesel,1501,3995,1695,4,,27.4,100,200,Manual,2470
+Honda,Amaze,Vx Mt Petrol,"7,81,000",1199,4,FWD (Front Wheel Drive),Injection,35,Petrol,1501,3995,1695,4,,19.5,90,110,Manual,2470
+Honda,Amaze,V Mt Petrol,"7,33,000",1199,4,FWD (Front Wheel Drive),Injection,35,Petrol,1501,3995,1695,4,,19.5,90,110,Manual,2470
+Honda,Amaze,S Mt Petrol,"6,73,000",1198,4,FWD (Front Wheel Drive),Injection,35,Petrol,1501,3995,1695,4,,19.5,90,110,Manual,2470
+Honda,Amaze,Exclusive Edition Diesel,"9,06,000",1498,4,FWD (Front Wheel Drive),Injection,35,Diesel,1501,3995,1695,4,,27.4,100,200,Manual,2470
+Honda,Amaze,Exclusive Edition Petrol,"7,94,000",1199,4,FWD (Front Wheel Drive),Injection,35,Petrol,1501,3995,1695,4,,19.5,90,110,Manual,2470
+Honda,Amaze,Vx Cvt Diesel,"9,66,000",1498,4,FWD (Front Wheel Drive),Injection,35,Diesel,1501,3995,1695,4,,27.4,100,200,Automatic,2470
+Honda,Amaze,Vx Cvt Petrol,"8,64,000",1199,4,FWD (Front Wheel Drive),Injection,35,Petrol,1501,3995,1695,4,,19.5,90,110,Automatic,2470
+Honda,Amaze,Ace Edition Cvt Diesel,"9,79,300",1498,4,FWD (Front Wheel Drive),Injection,35,Diesel,1501,3995,1695,4,,27.4,100,200,Automatic,2470
+Honda,Amaze,Ace Edition Cvt Petrol,"8,77,300",1199,4,FWD (Front Wheel Drive),Injection,35,Petrol,1501,3995,1695,4,,19.5,90,110,Automatic,2470
+Honda,Amaze,Ace Edition Mt Diesel,"9,06,300",1498,4,FWD (Front Wheel Drive),Injection,35,Diesel,1501,3995,1695,4,,27.4,100,200,Manual,2470
+Honda,Amaze,Ace Edition Mt Petrol,"7,94,300",1199,4,FWD (Front Wheel Drive),Injection,35,Petrol,1501,3995,1695,4,,19.5,90,110,Manual,2470
+Honda,Brv,E Petrol,"9,52,900",1497,4,FWD (Front Wheel Drive),Injection,42,Petrol,1666,4453,1735,5,12,15.4,119,145,Manual,2662
+Honda,Brv,S Petrol,"10,52,900",1497,4,FWD (Front Wheel Drive),Injection,42,Petrol,1666,4453,1735,5,12,15.4,119,145,Manual,2662
+Honda,Brv,V Petrol,"11,67,900",1497,4,FWD (Front Wheel Drive),Injection,42,Petrol,1666,4453,1735,5,12,15.4,119,145,Manual,2662
+Honda,Brv,Vx Petrol,"12,71,900",1497,4,FWD (Front Wheel Drive),Injection,42,Petrol,1666,4456,1735,5,12,15.4,119,145,Manual,2662
+Honda,Brv,V Cvt Petrol,"12,85,900",1497,4,FWD (Front Wheel Drive),Injection,42,Petrol,1666,4456,1735,5,12,16,119,145,Automatic,2662
+Honda,Brv,S Diesel,"11,87,900",1498,4,FWD (Front Wheel Drive),Injection,42,Diesel,1666,4453,1735,5,16.2,21.9,100,200,Manual,2662
+Honda,Brv,V Diesel,"12,73,900",1498,4,FWD (Front Wheel Drive),Injection,42,Diesel,1666,4453,1735,5,16.2,21.9,100,200,Manual,2662
+Honda,Brv,Vx Diesel,"13,82,900",1498,4,FWD (Front Wheel Drive),Injection,42,Diesel,1666,4456,1735,5,16.2,21.9,100,200,Manual,2662
+Honda,Wr-V,Vx Diesel,"10,35,000",1498,,FWD (Front Wheel Drive),Injection,40,Diesel,1601,3999,1734,5,25.5,25.5,100,200,Manual,2555
+Honda,Wr-V,Vx Petrol,"9,25,000",1199,4,FWD (Front Wheel Drive),Injection,40,Petrol,1601,3999,1734,5,17.5,17.5,90,110,Manual,2555
+Honda,Wr-V,S Diesel,"9,25,000",1498,4,FWD (Front Wheel Drive),Injection,40,Diesel,1601,3999,1734,5,25.5,25.5,100,200,Manual,2555
+Honda,Wr-V,S Petrol,"8,15,000",1199,4,FWD (Front Wheel Drive),Injection,40,Petrol,1601,3999,1734,5,17.5,17.5,90,110,Manual,2555
+Honda,Wr-V,Edge Plus Edition Diesel,"9,16,050",1498,4,FWD (Front Wheel Drive),Injection,40,Diesel,1601,3999,1734,5,25.5,25.5,100,200,Manual,2555
+Honda,Wr-V,Edge Plus Edition Petrol,"8,08,050",1199,4,FWD (Front Wheel Drive),Injection,40,Petrol,1601,3999,1734,5,17.5,17.5,90,110,Manual,2555
+Honda,Wr-V,Exclusive Edition Diesel,"10,48,050",1498,,FWD (Front Wheel Drive),Injection,40,Diesel,1601,3999,1734,5,25.5,25.5,100,200,Manual,2555
+Honda,Wr-V,Exclusive Edition Petrol,"9,35,050",1199,4,FWD (Front Wheel Drive),Injection,40,Petrol,1601,3999,1734,5,17.5,17.5,90,110,Manual,2555

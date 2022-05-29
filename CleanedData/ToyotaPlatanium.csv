@@ -1,0 +1,11 @@
+Make,Model,Variant,Price,Displacement,Cylinders,Drivetrain,Fuel_System,Fuel_Tank_Capacity,Fuel_Type,Height,Length,Width,Doors,City_Mileage,ARAI_Certified_Mileage,Power,Torque,Type,Wheelbase
+Toyota,Platinum Etios,G,"6,27,100",1496,4,FWD (Front Wheel Drive),Injection,45,Petrol,1510,4369,1695,4,13.6,16.78,90,132,Manual,2550
+Toyota,Platinum Etios,V,"7,18,600",1496,4,FWD (Front Wheel Drive),Injection,45,Petrol,1510,4369,1695,4,13.6,16.78,90,132,Manual,2550
+Toyota,Platinum Etios,Gd,"7,34,700",1364,4,FWD (Front Wheel Drive),Injection,45,Diesel,1510,4369,1695,4,20.32,23.59,68,170,Manual,2550
+Toyota,Platinum Etios,Vd,"8,28,600",1364,4,FWD (Front Wheel Drive),Injection,45,Diesel,1510,4369,1695,4,20.3,23.59,68,170,Manual,2550
+Toyota,Platinum Etios,Vxd,"8,88,400",1364,4,FWD (Front Wheel Drive),Injection,45,Diesel,1510,4369,1695,4,20.32,23.59,68,170,Manual,2550
+Toyota,Platinum Etios,Vx,"7,78,400",1496,4,FWD (Front Wheel Drive),Injection,45,Petrol,1510,4369,1695,4,13.6,16.78,90,132,Manual,2550
+Toyota,Platinum Etios,Gx,"6,89,600",1496,4,FWD (Front Wheel Drive),Injection,45,Petrol,1510,4369,1695,4,13.6,16.78,90,132,Manual,2550
+Toyota,Platinum Etios,Gxd,"7,99,600",1364,4,FWD (Front Wheel Drive),Injection,45,Diesel,1510,4369,1695,4,20.3,23.59,68,170,Manual,2550
+Toyota,Platinum Etios,Vxd Limited Edition,"9,13,400",1364,4,FWD (Front Wheel Drive),Injection,45,Diesel,1510,4369,1695,4,20.32,23.59,68,170,Manual,2550
+Toyota,Platinum Etios,Vx Limited Edition,"8,03,400",1496,4,FWD (Front Wheel Drive),Injection,45,Petrol,1510,4369,1695,4,13.6,16.78,90,132,Manual,2550

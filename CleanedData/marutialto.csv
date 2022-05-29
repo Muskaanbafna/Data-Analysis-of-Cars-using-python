@@ -1,0 +1,9 @@
+Make,Model,Variant,Price,Displacement,Cylinders,Drivetrain,Fuel_System,Fuel_Tank_Capacity,Fuel_Type,Height,Length,Width,Doors,City_Mileage,ARAI_Certified_Mileage,Power,Torque,Type,Wheelbase
+Maruti Suzuki,Alto,Std,"2,94,800",796,3,FWD (Front Wheel Drive),Injection,35,Petrol,1475,3445,1490,5,,22.05,48,69,Manual,2360
+Maruti Suzuki,Alto,Std (O),"2,99,900",796,3,FWD (Front Wheel Drive),Injection,35,Petrol,1475,3445,1490,5,,22.05,48,69,Manual,2360
+Maruti Suzuki,Alto,Lxi,"3,52,900",796,3,FWD (Front Wheel Drive),Injection,35,Petrol,1475,3445,1490,5,,22.05,47,69,Manual,2360
+Maruti Suzuki,Alto,Lxi (O),"3,57,200",796,3,FWD (Front Wheel Drive),Injection,35,Petrol,1475,3445,1490,5,,22.05,48,69,Manual,2360
+Maruti Suzuki,Alto,Vxi,"3,76,100",796,3,FWD (Front Wheel Drive),Injection,35,Petrol,1475,3445,1490,5,,22.05,48,69,Manual,2360
+Maruti Suzuki,Alto,Lxi Cng (Cng +,"4,05,570",796,3,FWD (Front Wheel Drive),Injection,35,CNG ,1475,3445,1490,5,,22.05,47,69,Manual,2360
+Maruti Suzuki,Alto,Lxi (O) Cng (Cng +,"4,09,190",796,3,FWD (Front Wheel Drive),Injection,35,CNG,1475,3445,1490,5,,22.05,48,69,Manual,2360
+Maruti Suzuki,Alto,Vxi Plus,"3,89,600",796,3,FWD (Front Wheel Drive),Injection,35,Petrol,1475,3445,1490,5,,22.05,48,69,Manual,2360

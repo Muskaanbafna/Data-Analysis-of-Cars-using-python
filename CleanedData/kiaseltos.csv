@@ -1,0 +1,17 @@
+Make,Model,Variant,Price,Displacement,Cylinders,Drivetrain,Fuel_System,Fuel_Tank_Capacity,Fuel_Type,Height,Length,Width,Doors,City_Mileage,ARAI_Certified_Mileage,Power,Torque,Type,Wheelbase
+Kia,Seltos,Hte 1.5,"9,89,000",1497,4,FWD (Front Wheel Drive),Injection,60,Petrol,1645,4315,1800,5,,16.8,115,144,Manual,2610
+Kia,Seltos,Htk 1.5,"10,29,000",1497,,FWD (Front Wheel Drive),Injection,60,Petrol,1645,4315,1800,5,,16.8,115,144,Manual,2610
+Kia,Seltos,Htk Plus 1.5,"11,49,000",1497,,FWD (Front Wheel Drive),Injection,60,Petrol,1645,4315,1800,5,,16.8,115,144,Manual,2610
+Kia,Seltos,Htx 1.5,"13,09,000",1497,,FWD (Front Wheel Drive),Injection,60,Petrol,1645,4315,1800,5,,16.8,115,144,Manual,2610
+Kia,Seltos,Htx Cvt 1.5,"14,09,000",1497,,FWD (Front Wheel Drive),Injection,60,Petrol,1645,4315,1800,5,,16.8,115,144,Automatic,2610
+Kia,Seltos,Hte 1.5 Diesel,"10,34,000",1493,,FWD (Front Wheel Drive),Injection,60,Diesel,1645,4315,1800,5,,20,114,250,Manual,2610
+Kia,Seltos,Htk 1.5 Diesel,"11,54,000",1493,,FWD (Front Wheel Drive),Injection,60,Diesel,1645,4315,1800,5,,20,115,250,Manual,2610
+Kia,Seltos,Htk Plus 1.5 Diesel,"12,54,000",1493,,FWD (Front Wheel Drive),Injection,60,Diesel,1645,4315,1800,5,,20,115,250,Manual,2610
+Kia,Seltos,Htk Plus At 1.5 Diesel,"13,54,000",1493,,FWD (Front Wheel Drive),Injection,60,Diesel,1645,4315,1800,5,,20,115,250,Automatic,2610
+Kia,Seltos,Htx Plus 1.5 Diesel,"15,34,000",1493,,FWD (Front Wheel Drive),Injection,60,Diesel,1645,4315,1800,5,,20,115,250,Manual,2610
+Kia,Seltos,Htx Plus At 1.5 Diesel,"16,34,000",1493,,FWD (Front Wheel Drive),Injection,60,Diesel,1645,4315,1800,5,,20,115,250,Automatic,2610
+Kia,Seltos,Gtk 1.4,"13,79,000",1353,4,FWD (Front Wheel Drive),Injection,50,Petrol,1645,4315,1800,5,,16.1,140,242,Manual,2610
+Kia,Seltos,Gtx 1.4,"15,29,000",1353,4,FWD (Front Wheel Drive),Injection,50,Petrol,1645,4315,1800,5,,16.1,140,242,Manual,2610
+Kia,Seltos,Gtx At 1.4,"16,29,000",1353,4,FWD (Front Wheel Drive),Injection,50,Petrol,1645,4315,1800,5,,16.5,140,242,DCT,2610
+Kia,Seltos,Gtx Plus 1.4,"16,29,000",1353,4,FWD (Front Wheel Drive),Injection,50,Petrol,1645,4315,1800,5,,16.1,140,242,Manual,2610
+Kia,Seltos,Htx 1.5 Diesel,"14,14,000",1493,,FWD (Front Wheel Drive),Injection,60,Diesel,1645,4315,1800,5,,20,115,250,Manual,2610

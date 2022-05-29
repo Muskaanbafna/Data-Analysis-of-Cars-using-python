@@ -1,0 +1,8 @@
+Make,Model,Variant,Price,Displacement,Cylinders,Drivetrain,Fuel_System,Fuel_Tank_Capacity,Fuel_Type,Height,Length,Width,Doors,City_Mileage,ARAI_Certified_Mileage,Power,Torque,Type,Wheelbase
+Superb,Style 1.8 Tsi Mt,"25,99,599",1798,4,FWD (Front Wheel Drive),Injection,66,Petrol,1483,4861,1864,4,10.6,14.12,180,320,Manual,2841,
+Superb,Style 1.8 Tsi At,"27,79,599",1798,4,FWD (Front Wheel Drive),Injection,66,Petrol,1483,4861,1864,4,10.1,14.67,180,250,Automatic,2841,
+Superb,L & K 1.8 Tsi At,"30,99,599",1798,4,FWD (Front Wheel Drive),Injection,66,Petrol,1483,4861,1864,4,11.3,13.7,180,250,Automatic,2841,
+Superb,L & K 2.0 Tdi At,"33,49,599",1968,4,FWD (Front Wheel Drive),Injection,66,Diesel,1483,4861,1864,4,15.1,18.19,177,350,Automatic,2841,
+Superb,Style 2.0 Tdi At,"30,29,599",1968,4,FWD (Front Wheel Drive),Injection,66,Diesel,1483,4861,1864,4,15.1,18.19,177,350,Automatic,2841,
+Superb,Corporate Edition 1.8 Tsi At,"25,99,599",1798,4,FWD (Front Wheel Drive),Injection,66,Petrol,1483,4861,1864,4,10.1,14.67,180,250,Automatic,2841,
+Superb,Corporate Edition 2.0 Tdi At,"28,49,599",1968,4,FWD (Front Wheel Drive),Injection,66,Diesel,1483,4861,1864,4,15.1,18.19,177,350,Automatic,2841,

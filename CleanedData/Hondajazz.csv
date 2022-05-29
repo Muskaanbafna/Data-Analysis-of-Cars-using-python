@@ -1,0 +1,10 @@
+Make,Model,Variant,Price,Displacement,Cylinders,Drivetrain,Fuel_System,Fuel_Tank_Capacity,Fuel_Type,Height,Length,Width,Doors,City_Mileage,ARAI_Certified_Mileage,Power,Torque,Type,Wheelbase
+Honda,Jazz,V Petrol,"7,45,000",1199,4,FWD (Front Wheel Drive),Injection,40,Petrol,1544,3955,1694,5,11.3,18.2,90,110,Manual,2530
+Honda,Jazz,Vx Cvt,"9,09,000",1199,4,FWD (Front Wheel Drive),Injection,40,Petrol,1544,3955,1694,5,11.3,19,90,110,Automatic,2530
+Honda,Jazz,Vx Petrol,"7,89,000",1199,4,FWD (Front Wheel Drive),Injection,40,Petrol,1544,3955,1694,5,11.3,18.2,90,110,Manual,2530
+Honda,Jazz,V Cvt,"8,65,000",1199,4,FWD (Front Wheel Drive),Injection,40,Petrol,1544,3955,1694,5,11.3,19,90,110,Automatic,2530
+Honda,Jazz,S Diesel,"8,16,500",1498,4,FWD (Front Wheel Drive),Injection,40,Diesel,1544,3955,1694,5,12,27.3,100,200,Manual,2530
+Honda,Jazz,V Diesel,"8,96,500",1498,4,FWD (Front Wheel Drive),Injection,40,Diesel,1544,3955,1694,5,12,27.3,100,200,Manual,2530
+Honda,Jazz,Vx Diesel,"9,40,500",1498,4,FWD (Front Wheel Drive),Injection,40,Diesel,1544,3955,1694,5,12,27.3,100,200,Manual,2530
+Honda,Jazz,Exclusive Edition Cvt,"9,28,000",1199,4,FWD (Front Wheel Drive),Injection,40,Petrol,1544,3955,1694,5,,18.2,89,110,Automatic,2530
+,,,,,,,,,,,,,,,,,,,

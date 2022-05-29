@@ -1,0 +1,5 @@
+Make,Model,Variant,Price,Displacement,Cylinders,Drivetrain,Fuel_System,Fuel_Tank_Capacity,Fuel_Type,Height,Length,Width,Doors,City_Mileage,ARAI_Certified_Mileage,Power,Torque,Type,Wheelbase
+Jeep,Grand Cherokee,Limited,"78,82,867",2987,6,AWD (All Wheel Drive),Injection,93,Diesel,1802,4828,1943,5,12.8,12.8,240,570,Automatic,2915
+Jeep,Grand Cherokee,Suit,"89,31,819",2987,6,AWD (All Wheel Drive),Injection,93,Diesel,1802,4828,1943,5,12.8,12.8,240,570,Automatic,2915
+Jeep,Grand Cherokee,Srt,"1,14,00,000",6417,8,AWD (All Wheel Drive),Injection,93,Petrol,1749,4846,1954,5,12.8,12.8,468,624,Automatic,2915
+Jeep,Grand Cherokee,Suit Petrol,"75,15,000",3604,6,AWD (All Wheel Drive),Injection,93,Petrol,1802,4828,1943,5,,8.61,286,347,Automatic,2915

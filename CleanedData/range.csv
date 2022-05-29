@@ -1,0 +1,9 @@
+Make,Model,Variant,Price,Displacement,Cylinders,Drivetrain,Fuel_System,Fuel_Tank_Capacity,Fuel_Type,Height,Length,Width,Doors,City_Mileage,ARAI_Certified_Mileage,Power,Torque,Type,Wheelbase
+,Mercedes-Benz E-Class,E200,"58,61,062",1991,4,RWD (Rear Wheel Drive),Injection,80,Petrol,1494,5063,1860,4,8.5,12,184,300,Automatic,3079
+,Mercedes-Benz E-Class,E350 D,"72,85,332",2987,6,RWD (Rear Wheel Drive),Injection,80,Diesel,1494,5063,1860,4,7.45,142,268.7,620,Automatic,3079
+,Mercedes-Benz E-Class,E220D,"59,64,321",2987,6,RWD (Rear Wheel Drive),Injection,80,Diesel,1494,5063,1860,4,,142,268.7,620,Automatic,3079
+,Mercedes-Benz E-Class,E 63 S Amg,"1,50,00,000",5461,8,AWD (All Wheel Drive),Injection,80,Petrol,1474,4879,1854,4,4.5,8.5,549,720,Automatic,2874
+,Mercedes-Benz E-Class,E200 Expression,"57,50,000",1991,4,RWD (Rear Wheel Drive),Injection,80,Petrol,1494,5063,1860,4,8.5,12,184,300,Automatic,3079
+,Mercedes-Benz E-Class,E200 Exclusive,"61,50,000",1991,4,RWD (Rear Wheel Drive),Injection,80,Petrol,1494,5063,1860,4,8.5,12,184,300,Automatic,3079
+,Mercedes-Benz E-Class,E220D Expression,"58,50,000",2987,6,RWD (Rear Wheel Drive),Injection,80,Diesel,1494,5063,1860,4,,142,268.7,620,Automatic,3079
+,Mercedes-Benz E-Class,E220D Exclusive,"62,50,000",2987,6,RWD (Rear Wheel Drive),Injection,80,Diesel,1494,5063,1860,4,,142,268.7,620,Automatic,3079

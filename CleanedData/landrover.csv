@@ -1,0 +1,9 @@
+Make,Model,Variant,Price,Displacement,Cylinders,Drivetrain,Fuel_System,Fuel_Tank_Capacity,Fuel_Type,Height,Length,Width,Doors,City_Mileage,ARAI_Certified_Mileage,Power,Torque,Type,Wheelbase
+Land Rover,Discovery,3.0 Hse Diesel,"1,02,05,494",2993,6,4WD,Injection,85,Diesel,1846,4988,2200,5,,18,258,600,Automatic,2922
+Land Rover,Discovery,3.0 Se Diesel,"96,89,321",2993,6,4WD,Injection,85,Diesel,1846,4988,2200,5,,18,258,600,Automatic,2922
+Land Rover,Discovery,3.0 Hse Petrol,"84,33,741",2995,6,4WD,Injection,89,Petrol,1846,4988,2200,5,,9.17,394,450,Automatic,2922
+Land Rover,Discovery,3.0 Se Petrol,"80,77,550",2995,6,4WD,Injection,89,Petrol,1846,4988,2200,5,,9.17,394,450,Automatic,2922
+Land Rover,Discovery,3.0 S Diesel,"88,77,094",2993,6,4WD,Injection,85,Diesel,1846,4988,2200,5,,18,258,600,Automatic,2922
+Land Rover,Discovery,3.0 S Petrol,"76,93,664",2995,6,4WD,Injection,89,Petrol,1846,4988,2200,5,,9.17,394,450,Automatic,2922
+Land Rover,Discovery,3.0 Hse Luxury Diesel,"1,08,61,088",2993,6,4WD,Injection,85,Diesel,1846,4988,2200,5,,18,258,600,Automatic,2922
+Land Rover,Discovery,3.0 Hse Luxury Petrol,"89,37,846",2995,6,4WD,Injection,89,Petrol,1846,4988,2200,5,,9.17,394,450,Automatic,2922

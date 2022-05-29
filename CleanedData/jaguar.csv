@@ -1,0 +1,10 @@
+Make,Model,Variant,Price,Displacement,Cylinders,Drivetrain,Fuel_System,Fuel_Tank_Capacity,Fuel_Type,Height,Length,Width,Doors,City_Mileage,ARAI_Certified_Mileage,Power,Torque,Type,Wheelbase
+Jaguar,Xe,S Petrol,"44,98,000",1997,4,RWD (Rear Wheel Drive),Injection,61,Petrol,1416,4691,1850,4,,11,250,365,Automatic,2835
+Jaguar,Xe,S Diesel,"44,98,000",1999,4,RWD (Rear Wheel Drive),Injection,56,Diesel,1416,4691,1850,4,,11,180,430,Automatic,2835
+Jaguar,Xe,Se Diesel,"46,33,000",1999,4,RWD (Rear Wheel Drive),Injection,56,Diesel,1416,4691,1850,4,,11,180,430,Automatic,2835
+Jaguar,Xe,Se Petrol,"46,33,000",1997,4,RWD (Rear Wheel Drive),Injection,61,Petrol,1416,4691,1850,4,,11,250,365,Automatic,2835
+Jaguar,Xf,2.0 Prestige,"54,36,329",1999,4,RWD (Rear Wheel Drive),Injection,74,Petrol,1460,4961,2091,4,5.7,13.12,247,340,Automatic,2960
+Jaguar,Xf,2.0 Portfolio,"60,73,446",1999,4,RWD (Rear Wheel Drive),Injection,82,Petrol,1457,5252,1899,4,5.7,13.12,247,340,Automatic,3157
+Jaguar,Xf,2.0 Portfolio Diesel,"61,38,811",1999,4,RWD (Rear Wheel Drive),Injection,83,Diesel,1457,5252,1899,4,5.7,19.33,180,430,Automatic,3157
+Jaguar,Xf,2.0 Prestige Diesel,"55,06,622",1999,4,RWD (Rear Wheel Drive),Injection,66,Diesel,1457,5067,2091,4,5.7,19.33,180,430,Automatic,2960
+Jaguar,Xf,2.0 Pure Diesel,"49,77,080",1999,4,RWD (Rear Wheel Drive),Injection,66,Diesel,1457,5067,2091,4,5.7,19.33,180,430,Automatic,2960

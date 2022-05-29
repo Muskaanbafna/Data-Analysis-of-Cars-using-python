@@ -1,0 +1,45 @@
+Make,Model,Variant,Price,Displacement,Cylinders,Drivetrain,Fuel_System,Fuel_Tank_Capacity,Fuel_Type,Height,Length,Width,Doors,City_Mileage,ARAI_Certified_Mileage,Power,Torque,Type,Wheelbase
+Mahindra,Tuv300 Plus,P4,"9,92,748",2179,3,RWD (Rear Wheel Drive),Injection,60,Diesel,1812,4400,1835,5,18.49,18.49,120,280,Manual,2680
+Mahindra,Tuv300 Plus,P6,"10,29,650",2179,3,RWD (Rear Wheel Drive),Injection,60,Diesel,1812,4400,1835,5,18.49,18.49,120,280,Manual,2680
+Mahindra,Tuv300 Plus,P8,"11,42,157",2179,3,RWD (Rear Wheel Drive),Injection,60,Diesel,1812,4400,1835,5,18.49,18.49,120,280,Manual,2680
+Mahindra,Marazzo,M2 7 Str,"9,99,900",1497,4,FWD (Front Wheel Drive),Injection,45,Diesel,1774,4585,1866,5,,17.3,121,300,Manual,2760
+Mahindra,Marazzo,M4 7 Str,"11,56,471",1497,4,FWD (Front Wheel Drive),Injection,45,Diesel,1774,4585,1866,5,,17.3,121,300,Manual,2760
+Mahindra,Marazzo,M6 7 Str,"13,08,592",1497,4,FWD (Front Wheel Drive),Injection,45,Diesel,1774,4585,1866,5,,17.3,121,300,Manual,2760
+Mahindra,Marazzo,M8 7 Str,"14,68,440",1497,4,FWD (Front Wheel Drive),Injection,45,Diesel,1774,4585,1866,5,,17.3,121,300,Manual,2760
+Mahindra,Marazzo,M2 8 Str,"9,99,900",1497,4,FWD (Front Wheel Drive),Injection,45,Diesel,1774,4585,1866,5,,17.3,121,300,Manual,2760
+Mahindra,Marazzo,M4 8 Str,"11,64,569",1497,4,FWD (Front Wheel Drive),Injection,45,Diesel,1774,4585,1866,5,,17.3,121,300,Manual,2760
+Mahindra,Marazzo,M6 8 Str,"13,16,690",1497,4,FWD (Front Wheel Drive),Injection,45,Diesel,1774,4585,1866,5,,17.3,121,300,Manual,2760
+Mahindra,Marazzo,M8 8 Str,"14,76,538",1497,4,FWD (Front Wheel Drive),Injection,45,Diesel,1774,4585,1866,5,,17.3,121,300,Manual,2760
+Mahindra,Scorpio,S3 2Wd,"9,99,994",2523,4,FWD (Front Wheel Drive),Injection,60,Diesel,1930,4456,1820,5,11.5,15.4,75,200,Manual,2680
+Mahindra,Scorpio,4Wd Getaway,"12,36,258",2179,4,4WD,Injection,80,Diesel,1874,5118,1850,5,8.1,10.22,121,280,Manual,3040
+Mahindra,Scorpio,2Wd Getaway,"11,23,158",2179,4,RWD (Rear Wheel Drive),Injection,80,Diesel,1874,5118,1850,5,9.4,13.5,121,280,Manual,3040
+Mahindra,Scorpio,S5 2Wd,"12,20,030",2179,4,FWD (Front Wheel Drive),Injection,60,Diesel,1995,4456,1820,5,11.5,15.4,120,280,Manual,2680
+Mahindra,Scorpio,S7 120 2Wd,"13,30,006",2179,4,FWD (Front Wheel Drive),Injection,60,Diesel,1995,4456,1820,5,11.5,15.4,120,280,Manual,2680
+Mahindra,Scorpio,S7 140 2Wd,"13,60,668",2179,4,FWD (Front Wheel Drive),Injection,60,Diesel,1995,4456,1820,5,11.5,15.4,140,320,Manual,2680
+Mahindra,Scorpio,S11 2Wd,"15,40,081",2179,4,FWD (Front Wheel Drive),Injection,60,Diesel,1995,4456,1820,5,11.5,15.4,140,320,Manual,2680
+Mahindra,Scorpio,S11 4Wd,"16,63,054",2179,4,FWD (Front Wheel Drive),Injection,60,Diesel,1995,4456,1820,5,11.5,15.4,140,320,Manual,2680
+Mahindra,Scorpio,S9 2Wd,"14,23,710",2179,4,FWD (Front Wheel Drive),Injection,60,Diesel,1995,4456,1820,5,11.5,15.4,140,320,Manual,2680
+Mahindra,Xuv500,G At,"16,10,180",2179,4,FWD (Front Wheel Drive),Injection,70,Petrol,1785,4585,1890,5,,13.85,140,320,Automatic,2700
+Mahindra,Xuv500,W7,"14,18,313",2179,4,FWD (Front Wheel Drive),Injection,70,Diesel,1785,4585,1890,5,16,15.1,155,330,Manual,2700
+Mahindra,Xuv500,W7 At,"15,39,488",2179,4,FWD (Front Wheel Drive),Injection,70,Diesel,1785,4585,1890,5,16,16,155,330,Automatic,2700
+Mahindra,Xuv500,W9,"15,88,943",2179,4,FWD (Front Wheel Drive),Injection,70,Diesel,1785,4585,1890,5,16,16,155,330,Manual,2700
+Mahindra,Xuv500,W9 At,"17,10,118",2179,4,FWD (Front Wheel Drive),Injection,70,Diesel,1785,4585,1890,5,16,16,155,330,Automatic,2700
+Mahindra,Xuv500,W11,"17,16,319",2179,4,FWD (Front Wheel Drive),Injection,70,Diesel,1785,4585,1890,5,16,16,155,330,Manual,2700
+Mahindra,Xuv500,W11 At,"18,37,586",2179,4,FWD (Front Wheel Drive),Injection,70,Diesel,1785,4585,1890,5,16,16,155,330,Automatic,2700
+Mahindra,Xuv500,W11 (O),"17,41,319",2179,4,FWD (Front Wheel Drive),Injection,70,Diesel,1785,4585,1890,5,16,16,155,330,Manual,2700
+Mahindra,Xuv500,W11 (O) At,"18,62,586",2179,4,FWD (Front Wheel Drive),Injection,70,Diesel,1785,4585,1890,5,16,16,155,330,Automatic,2700
+Mahindra,Xuv500,G At,"16,10,180",2179,4,FWD (Front Wheel Drive),Injection,70,Petrol,1785,4585,1890,5,,13.85,140,320,Automatic,2700
+Mahindra,Xuv500,W7,"14,18,313",2179,4,FWD (Front Wheel Drive),Injection,70,Diesel,1785,4585,1890,5,16,15.1,155,330,Manual,2700
+Mahindra,Xuv500,W7 At,"15,39,488",2179,4,FWD (Front Wheel Drive),Injection,70,Diesel,1785,4585,1890,5,16,16,155,330,Automatic,2700
+Mahindra,Xuv500,W9,"15,88,943",2179,4,FWD (Front Wheel Drive),Injection,70,Diesel,1785,4585,1890,5,16,16,155,330,Manual,2700
+Mahindra,Xuv500,W9 At,"17,10,118",2179,4,FWD (Front Wheel Drive),Injection,70,Diesel,1785,4585,1890,5,16,16,155,330,Automatic,2700
+Mahindra,Xuv500,W11,"17,16,319",2179,4,FWD (Front Wheel Drive),Injection,70,Diesel,1785,4585,1890,5,16,16,155,330,Manual,2700
+Mahindra,Xuv500,W11 At,"18,37,586",2179,4,FWD (Front Wheel Drive),Injection,70,Diesel,1785,4585,1890,5,16,16,155,330,Automatic,2700
+Mahindra,Xuv500,W11 (O),"17,41,319",2179,4,FWD (Front Wheel Drive),Injection,70,Diesel,1785,4585,1890,5,16,16,155,330,Manual,2700
+Mahindra,Xuv500,W11 (O) At,"18,62,586",2179,4,FWD (Front Wheel Drive),Injection,70,Diesel,1785,4585,1890,5,16,16,155,330,Automatic,2700
+Mahindra,Xuv500,W11 (O) Awd,"18,52,488",2179,4,AWD (All Wheel Drive),Injection,70,Diesel,1785,4585,1890,5,16,16,155,330,Manual,2700
+Mahindra,Xuv500,W11 (O) Awd At,"19,73,664",2179,4,AWD (All Wheel Drive),Injection,70,Diesel,1785,4585,1890,5,16,16,155,330,Automatic,2700
+Mahindra,Xuv500,W3,"12,30,924",2179,4,FWD (Front Wheel Drive),Injection,70,Diesel,1785,4585,1890,5,16,16,155,360,Manual,2700
+Mahindra,E Verito,D4,"12,93,214",72,,FWD (Front Wheel Drive),,,Electric,1540,4247,1740,4,110,,41,91,Automatic,2630
+Mahindra,E Verito,D2,"12,67,208",72,,FWD (Front Wheel Drive),,,Electric,1540,4247,1740,4,110,,41,91,Automatic,2630
+Mahindra,E Verito,D6,"13,03,241",72,,FWD (Front Wheel Drive),,,Electric,1540,4247,1740,4,110,,41,91,Automatic,2630

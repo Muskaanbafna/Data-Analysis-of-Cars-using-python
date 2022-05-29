@@ -1,0 +1,13 @@
+Make,Model,Variant,Price,Displacement,Cylinders,Drivetrain,Fuel_System,Fuel_Tank_Capacity,Fuel_Type,Height,Length,Width,Doors,City_Mileage,ARAI_Certified_Mileage,Power,Torque,Type,Wheelbase
+Octavia,Ambition 1.4 Tsi,"15,99,599",1395,4,FWD (Front Wheel Drive),Injection,50,Petrol,1476,4670,1814,4,,16.7,140,250,Manual,2688,
+Octavia,Ambition 2.0 Tdi Cr,"17,99,599",1968,4,FWD (Front Wheel Drive),Injection,50,Diesel,1476,4670,1814,4,,21,143,320,Manual,2688,
+Octavia,Style 1.4 Tsi,"18,99,599",1395,4,FWD (Front Wheel Drive),Injection,50,Petrol,1476,4670,1814,4,,16.7,140,250,Manual,2688,
+Octavia,Style 1.8 Tsi At,"20,59,599",1798,4,FWD (Front Wheel Drive),Injection,50,Petrol,1476,4670,1814,4,,15.1,180,250,Automatic,2688,
+Octavia,Style 2.0 Tdi Cr,"20,79,599",1968,4,FWD (Front Wheel Drive),Injection,50,Diesel,1476,4670,1814,4,,21,143,320,Manual,2688,
+Octavia,Style 2.0 Tdi Cr At,"22,99,599",1968,4,FWD (Front Wheel Drive),Injection,50,Diesel,1476,4670,1814,4,,19.5,143,320,Automatic,2688,
+Octavia,L & K 1.8 Tsi At,"23,59,599",1798,4,FWD (Front Wheel Drive),Injection,50,Petrol,1476,4670,1814,4,,15.1,180,250,Automatic,2688,
+Octavia,L & K 2.0 Tdi Cr At,"23,59,599",1968,4,FWD (Front Wheel Drive),Injection,50,Diesel,1476,4670,1814,4,,19.5,143,320,Automatic,2688,
+Octavia,Corporate Edition 1.4 Tsi,"15,49,000",1395,4,FWD (Front Wheel Drive),Injection,50,Petrol,1476,4670,1814,4,,16.7,140,250,Manual,2688,
+Octavia,Corporate Edition 2.0 Tdi,"16,99,000",1968,4,FWD (Front Wheel Drive),Injection,50,Diesel,1476,4670,1814,4,,21,141,320,Manual,2688,
+Octavia,Onyx 1.8 Tsi Dsg,"19,99,599",1798,4,FWD (Front Wheel Drive),Injection,50,Petrol,1476,4670,1814,4,,15.1,180,250,Automatic,2688,
+Octavia,Onyx 2.0 Tdi Dsg,"21,99,599",1968,4,FWD (Front Wheel Drive),Injection,50,Diesel,1476,4670,1814,4,,19.5,143,320,Automatic,2688,

@@ -1,0 +1,14 @@
+Make,Model,Variant,Price,Displacement,Cylinders,Drivetrain,Fuel_System,Fuel_Tank_Capacity,Fuel_Type,Height,Length,Width,Doors,City_Mileage,ARAI_Certified_Mileage,Power,Torque,Type,Wheelbase
+Hyundai,Venue,1.2 Kappa Mt E,"6,55,000",1197,4,FWD (Front Wheel Drive),Injection,45,Petrol,1590,3995,1770,5,,17.52,82,112.7,Manual,2500
+Hyundai,Venue,1.0 Turbo Gdi Mt S,"8,26,000",998,4,FWD (Front Wheel Drive),Injection,45,Petrol,1590,3995,1770,5,,18.27,117,172,Manual,2500
+Hyundai,Venue,1.4 Crdi Mt E,"7,80,000",1397,4,FWD (Front Wheel Drive),Injection,,Diesel,1590,3995,1770,5,,23.7,89,220,Manual,2500
+Hyundai,Venue,1.0 Turbo Gdi Mt Sx,"9,59,000",998,4,FWD (Front Wheel Drive),Injection,45,Petrol,1590,3995,1770,5,,18.27,117,172,Manual,2500
+Hyundai,Venue,1.0 Turbo Gdi Mt Sx Dual Tone,"9,74,000",998,4,FWD (Front Wheel Drive),Injection,45,Petrol,1590,3995,1770,5,,18.27,117,172,Manual,2500
+Hyundai,Venue,1.0 Turbo Gdi Mt Sx(O),"10,65,000",998,4,FWD (Front Wheel Drive),Injection,45,Petrol,1590,3995,1770,5,,18.27,117,1712,Manual,2500
+Hyundai,Venue,1.0 Turbo Gdi Dct S,"9,40,000",998,4,FWD (Front Wheel Drive),Injection,45,Petrol,1590,3995,1770,5,,18.15,118,172,DCT,2500
+Hyundai,Venue,1.0 Turbo Gdi Dct Sx Plus,"11,15,500",998,4,FWD (Front Wheel Drive),Injection,45,Petrol,1590,3995,1770,5,,18.15,118,172,DCT,2500
+Hyundai,Venue,1.2 Kappa Mt S,"7,25,000",1197,4,FWD (Front Wheel Drive),Injection,45,Petrol,1590,3995,1770,5,,17.52,82,115,Manual,2500
+Hyundai,Venue,1.4 Crdi Mt S,"8,50,000",1397,4,FWD (Front Wheel Drive),Injection,,Diesel,1590,3995,1770,5,,23.7,89,220,Manual,2500
+Hyundai,Venue,1.4 Crdi Mt Sx,"9,83,000",1397,4,FWD (Front Wheel Drive),Injection,,Diesel,1590,3995,1770,5,,23.7,89,220,Manual,2500
+Hyundai,Venue,1.4 Crdi Mt Sx Dual Tone,"9,98,000",1397,4,FWD (Front Wheel Drive),Injection,,Diesel,1590,3995,1770,5,,23.7,89,220,Manual,2500
+Hyundai,Venue,1.4 Crdi Mt Sx(O),"10,89,000",1397,4,FWD (Front Wheel Drive),Injection,45,Diesel,1590,3995,1770,5,,23.7,90,22.4,Manual,2500

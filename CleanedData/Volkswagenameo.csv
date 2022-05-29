@@ -1,0 +1,9 @@
+Make,Model,Variant,Price,Displacement,Cylinders,Drivetrain,Fuel_System,Fuel_Tank_Capacity,Fuel_Type,Height,Length,Width,Doors,City_Mileage,ARAI_Certified_Mileage,Power,Torque,Type,Wheelbase
+Volkswagen,Ameo,Trendline 1.5L Tdi,"7,11,500",1498,,FWD (Front Wheel Drive),Injection,45,Diesel,1483,3995,1682,4,15.3,21.66,110,250,Manual,2470
+Volkswagen,Ameo,Comfortline 1.5L Tdi,"8,10,500",1498,,FWD (Front Wheel Drive),Injection,45,Diesel,1483,3995,1682,4,15.3,21.66,110,250,Manual,2470
+Volkswagen,Ameo,Highline Plus 1.5L Tdi Dsg,"9,99,900",1498,,FWD (Front Wheel Drive),Injection,45,Diesel,1483,3995,1682,4,15.3,21.73,110,250,Automatic,2470
+Volkswagen,Ameo,Highline Plus 1.5L Tdi,"9,25,500",1498,,FWD (Front Wheel Drive),Injection,45,Diesel,1483,3995,1682,4,15.3,21.66,110,250,Manual,2470
+Volkswagen,Ameo,Trendline 1.0L,"5,94,000",999,3,FWD (Front Wheel Drive),Injection,45,Petrol,1483,3995,1682,4,,19,76,95,Manual,2470
+Volkswagen,Ameo,Comfortline 1.0L,"6,65,000",999,3,FWD (Front Wheel Drive),Injection,45,Petrol,1483,3995,1682,4,,19,76,95,Manual,2470
+Volkswagen,Ameo,Highline Plus 1.0L,"7,99,900",999,3,FWD (Front Wheel Drive),Injection,45,Petrol,1483,3995,1682,4,,19,76,95,Manual,2470
+Volkswagen,Ameo,Gt Line Tdi Dsg,"9,99,900",1498,,FWD (Front Wheel Drive),Injection,45,Diesel,1483,3995,1682,4,15.3,21.73,110,250,Automatic,2470

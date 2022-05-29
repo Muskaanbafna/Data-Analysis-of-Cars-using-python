@@ -26,7 +26,7 @@ Data after dropping the values
 
 
 
-A
+
 ANALYSIS 2
 
 This analysis gives the distribution of cars on Car type,Make,Fuel type.
@@ -53,22 +53,29 @@ ANALYSIS 3
 
 This analysis gives us the relation between Mileage and price.
 
+From the graph its visible that expensive cars tend to have worse mileage
+
 Relation between power and price considering different body type.
+
+
+Made scatter plot between two related variables which concluded that power seems to be highly related to price
 
 Heapmap is used to find the correlation between the features.
 
-Scatter plot grid of more numerical variable is done to  investigate the realtion in more detail
+As seen in heapmap we can see strong correlation between power and displacement
+
+Scatter plot grid of more numerical variable is done to  investigate the realtion in more detail.
 
 
 ANALYSIS 4
 
 Univariant Analysis is done between:
-Cylinders
-Displacement
-Wheelbase
-Fuel_Tank_Capacity
-Power
-Price
+Cylinders-Most cylinders lie in range of 4-5
+Displacement-Most cars has a displacement of 1000cc
+Wheelbase-Most cars has wheelbase of of 2400-2600
+Fuel_Tank_Capacity-Most cars has Fuel tank capacity of of 40-50litres
+Power-Most cars occupy power between 20-150hp
+Price-Most cars price lie in the range of 550 le7
 
 Bivariant Analysis is done between:
 

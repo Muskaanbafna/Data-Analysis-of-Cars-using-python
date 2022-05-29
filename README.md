@@ -53,13 +53,15 @@ ANALYSIS 3
 
 This analysis gives us the relation between Mileage and price.
 
+
 From the graph its visible that expensive cars tend to have worse mileage
 
 Relation between power and price considering different body type.
-![Relation btw power and price](https://user-images.githubusercontent.com/89978688/170883229-c803aeff-da74-49f3-9757-81f90bdbe851.png)
+
 
 
 Made scatter plot between two related variables which concluded that power seems to be highly related to price
+
 
 Heapmap is used to find the correlation between the features.![Heat map](https://user-images.githubusercontent.com/89978688/170883199-df39ecd0-7699-4cd4-8dc8-cf911ad02878.png)
 
@@ -67,6 +69,7 @@ Heapmap is used to find the correlation between the features.![Heat map](https:/
 As seen in heapmap we can see strong correlation between power and displacement
 
 Scatter plot grid of more numerical variable is done to  investigate the realtion in more detail.
+
 
 
 ANALYSIS 4

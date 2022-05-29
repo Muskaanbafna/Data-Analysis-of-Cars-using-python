@@ -26,19 +26,27 @@ Data after dropping the values
 
 
 
+A
 ANALYSIS 2
 
 This analysis gives the distribution of cars on Car type,Make,Fuel type.
 
+More than 70 % of the vehicle is Manual type Car.
+
+Most produced vehicle are of body style Maruti Suzuki around 165% followed by Toyota and hyundai 150%
+
+More than 50 % of the vehicle is a Diesel type Car
+
 Box plot of Price of every body type.
 
+It's Clear that Car body type strongly affect the price of the car.
+
 Performing a 5 number summary (min, lower quartile, median, upper quartile, max)
+![Screenshot (84)](https://user-images.githubusercontent.com/89978688/170882519-08fac558-88bc-48a0-b3ec-dc526a66f9de.png)
+
 
 An outlier is a point or set of points different from other points. Sometimes they can be very high or very low. It’s often a good idea to detect and remove the outliers.
-
-Therefore to remove outliners IQR score technique is used  to detect and remove the outliers with the help of boxplot
-.
-After using this technique we will see that  box plot contains no outlier points.
+Therefore to remove outliners IQR score technique is used to detect and remove the outliers with the help of boxplot . After using this technique we will see that box plot contains no outlier points.
 
 
 ANALYSIS 3

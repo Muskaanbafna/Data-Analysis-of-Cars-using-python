@@ -1,5 +1,18 @@
 # Data-Analysis-of-Cars-using-python
 
+Analysis 1 
+
+Data Cleaning 
+
+Some general analysis encountered during Data Cleaning are:
+
+Checking the type of data
+
+Dropping the duplicate rows
+
+Dropping the missing or null values
+
+Data after dropping the values
 
 
 
